@@ -19,3 +19,4 @@
 {"description":"Run a groovy hello world","entry":"20230630T133301Z","modified":"20230630T133301Z","project":"TS-prod","status":"pending","uuid":"bf3747f4-ca47-4fe0-8a70-5c1044773a04","tags":["work"]}
 {"description":"Run a groovy understands yaml","entry":"20230630T133316Z","modified":"20230630T133316Z","project":"TS-prod","status":"pending","uuid":"92a22b52-60cb-4489-a30e-9aa5b119c192","tags":["work"]}
 {"description":"Run a groovy that checks for rls","entry":"20230630T133323Z","modified":"20230630T133323Z","project":"TS-prod","status":"pending","uuid":"a8eb47e9-129d-44ea-9e2b-12c3581f89fc","tags":["work"]}
+{"description":"Plug groovy in library","entry":"20230630T133349Z","modified":"20230630T133349Z","project":"TS-prod","status":"pending","uuid":"c30a4667-f06a-48c8-bada-26630f94c1cb","tags":["work"]}
