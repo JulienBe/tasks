@@ -22,3 +22,4 @@
 {"description":"Plug groovy in library","entry":"20230630T133349Z","modified":"20230630T133349Z","project":"TS-prod","status":"pending","uuid":"c30a4667-f06a-48c8-bada-26630f94c1cb","tags":["work"]}
 {"description":"Respond to reread doc:TS-prod","end":"20230630T133541Z","entry":"20230630T121701Z","modified":"20230630T133541Z","project":"TS-prod","status":"completed","uuid":"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e","tags":["work"]}
 {"description":"Run a groovy understands yaml","entry":"20230630T133316Z","modified":"20230630T133555Z","project":"TS-prod","status":"pending","uuid":"92a22b52-60cb-4489-a30e-9aa5b119c192","tags":["next","work"]}
+{"description":"Run a groovy hello world","entry":"20230630T133301Z","modified":"20230630T133613Z","project":"TS-prod","status":"pending","uuid":"bf3747f4-ca47-4fe0-8a70-5c1044773a04","tags":["next","work"]}
