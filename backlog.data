@@ -17,3 +17,4 @@
 {"description":"Sync call","entry":"20230630T122626Z","modified":"20230630T122626Z","project":"TS-prod","status":"pending","uuid":"ddb248ae-71f0-4b59-b9be-34cfe22d2a00","tags":["work"]}
 {"description":"Sync call","end":"20230630T133216Z","entry":"20230630T122626Z","modified":"20230630T133216Z","project":"TS-prod","status":"completed","uuid":"ddb248ae-71f0-4b59-b9be-34cfe22d2a00","tags":["work"]}
 {"description":"Run a groovy hello world","entry":"20230630T133301Z","modified":"20230630T133301Z","project":"TS-prod","status":"pending","uuid":"bf3747f4-ca47-4fe0-8a70-5c1044773a04","tags":["work"]}
+{"description":"Run a groovy understands yaml","entry":"20230630T133316Z","modified":"20230630T133316Z","project":"TS-prod","status":"pending","uuid":"92a22b52-60cb-4489-a30e-9aa5b119c192","tags":["work"]}

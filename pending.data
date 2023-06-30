@@ -8,3 +8,4 @@
 [description:"Respond to email:psy" entry:"1688121928" modified:"1688127528" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
 [description:"Respond to reread doc:TS-prod" entry:"1688127421" modified:"1688127540" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e"]
 [description:"Run a groovy hello world" entry:"1688131981" modified:"1688131981" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
+[description:"Run a groovy understands yaml" entry:"1688131996" modified:"1688131996" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"92a22b52-60cb-4489-a30e-9aa5b119c192"]
