@@ -45,3 +45,7 @@ time 1688127523
 old [description:"Pay:psy" entry:"1688121920" modified:"1688127515" status:"pending" tags:"home" tags_home:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
 new [description:"Pay:psy" entry:"1688121920" modified:"1688127523" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
 ---
+time 1688127528
+old [description:"Respond to email:psy" entry:"1688121928" modified:"1688127510" status:"pending" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
+new [description:"Respond to email:psy" entry:"1688121928" modified:"1688127528" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
+---
