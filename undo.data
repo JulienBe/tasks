@@ -84,3 +84,7 @@ time 1688132173
 old [description:"Run a groovy hello world" entry:"1688131981" modified:"1688131981" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
 new [description:"Run a groovy hello world" entry:"1688131981" modified:"1688132173" project:"TS-prod" status:"pending" tags:"next,work" tags_next:"x" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
 ---
+time 1688132683
+old [description:"Run a groovy hello world" entry:"1688131981" modified:"1688132173" project:"TS-prod" status:"pending" tags:"next,work" tags_next:"x" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
+new [description:"Run a groovy hello world" end:"1688132683" entry:"1688131981" modified:"1688132683" project:"TS-prod" status:"completed" tags:"next,work" tags_next:"x" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
+---
