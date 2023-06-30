@@ -2,3 +2,4 @@
 {"description":"create Jira issue to modify mocks","entry":"20230630T104320Z","modified":"20230630T104320Z","project":"analysis","status":"pending","uuid":"761d833e-8513-4013-ae88-421fc105ebd6","tags":["work"]}
 {"description":"Static version of network mocks","entry":"20230630T104351Z","modified":"20230630T104351Z","project":"analysis","status":"pending","uuid":"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409","tags":["work"]}
 {"description":"Query version of network mocks","entry":"20230630T104402Z","modified":"20230630T104402Z","project":"analysis","status":"pending","uuid":"4f308b85-bc6f-4783-8c93-03b9d84dc005","tags":["work"]}
+{"description":"React to filters version of network mocks","entry":"20230630T104409Z","modified":"20230630T104409Z","project":"analysis","status":"pending","uuid":"6e179514-9208-42e2-8a6a-6bae2a939665","tags":["work"]}
