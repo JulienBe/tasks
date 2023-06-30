@@ -7,4 +7,4 @@
 [description:"Pay:psy" entry:"1688121920" modified:"1688127523" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
 [description:"Respond to email:psy" entry:"1688121928" modified:"1688127528" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
 [description:"Respond to reread doc:TS-prod" entry:"1688127421" modified:"1688127540" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e"]
-[description:"Sync call" entry:"1688127986" modified:"1688127986" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"ddb248ae-71f0-4b59-b9be-34cfe22d2a00"]
+[description:"Sync call" end:"1688131936" entry:"1688127986" modified:"1688131936" project:"TS-prod" status:"completed" tags:"work" tags_work:"x" uuid:"ddb248ae-71f0-4b59-b9be-34cfe22d2a00"]

@@ -15,3 +15,4 @@
 {"description":"Respond to email:psy","entry":"20230630T104528Z","modified":"20230630T121848Z","project":"psy","status":"pending","uuid":"2978ec3e-69c4-4047-a40b-19dddd26aa58","tags":["home"]}
 {"description":"Respond to reread doc:TS-prod","entry":"20230630T121701Z","modified":"20230630T121900Z","project":"TS-prod","status":"pending","uuid":"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e","tags":["work"]}
 {"description":"Sync call","entry":"20230630T122626Z","modified":"20230630T122626Z","project":"TS-prod","status":"pending","uuid":"ddb248ae-71f0-4b59-b9be-34cfe22d2a00","tags":["work"]}
+{"description":"Sync call","end":"20230630T133216Z","entry":"20230630T122626Z","modified":"20230630T133216Z","project":"TS-prod","status":"completed","uuid":"ddb248ae-71f0-4b59-b9be-34cfe22d2a00","tags":["work"]}
