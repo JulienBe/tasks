@@ -25,3 +25,7 @@ new [description:"Respond to email:psy" entry:"1688121928" modified:"1688121928"
 time 1688127421
 new [description:"Respond to reread doc:TS-prod" entry:"1688127421" modified:"1688127421" status:"pending" tags:"work" tags_work:"x" uuid:"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e"]
 ---
+time 1688127480
+old [description:"Pay:psy" entry:"1688121920" modified:"1688121920" status:"pending" tags:"home" tags_home:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
+new [description:"Pay:psy" entry:"1688121920" modified:"1688127480" status:"pending" tags:"psy" tags_psy:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
+---
