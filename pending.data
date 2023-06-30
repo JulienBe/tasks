@@ -6,7 +6,7 @@
 [description:"Find psychologue.net email" entry:"1688121914" modified:"1688121914" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"bb831b3d-da55-4f31-b9f5-de1892481945"]
 [description:"Pay:psy" entry:"1688121920" modified:"1688127523" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
 [description:"Respond to email:psy" entry:"1688121928" modified:"1688127528" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
-[description:"Respond to reread doc:TS-prod" entry:"1688127421" modified:"1688127540" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e"]
+[description:"Respond to reread doc:TS-prod" end:"1688132141" entry:"1688127421" modified:"1688132141" project:"TS-prod" status:"completed" tags:"work" tags_work:"x" uuid:"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e"]
 [description:"Run a groovy hello world" entry:"1688131981" modified:"1688131981" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
 [description:"Run a groovy understands yaml" entry:"1688131996" modified:"1688131996" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"92a22b52-60cb-4489-a30e-9aa5b119c192"]
 [description:"Run a groovy that checks for rls" entry:"1688132003" modified:"1688132003" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"a8eb47e9-129d-44ea-9e2b-12c3581f89fc"]

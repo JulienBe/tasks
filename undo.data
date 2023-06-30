@@ -72,3 +72,7 @@ new [description:"Run a groovy that checks for rls" entry:"1688132003" modified:
 time 1688132029
 new [description:"Plug groovy in library" entry:"1688132029" modified:"1688132029" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"c30a4667-f06a-48c8-bada-26630f94c1cb"]
 ---
+time 1688132141
+old [description:"Respond to reread doc:TS-prod" entry:"1688127421" modified:"1688127540" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e"]
+new [description:"Respond to reread doc:TS-prod" end:"1688132141" entry:"1688127421" modified:"1688132141" project:"TS-prod" status:"completed" tags:"work" tags_work:"x" uuid:"0f40b4e6-3fcd-4d2b-851b-0f29f72abc5e"]
+---
