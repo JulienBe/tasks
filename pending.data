@@ -5,7 +5,5 @@
 [description:"React to filters version of network mocks" entry:"1688121849" modified:"1688121849" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"6e179514-9208-42e2-8a6a-6bae2a939665"]
 [description:"Find psychologue.net email" entry:"1688121914" modified:"1688121914" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"bb831b3d-da55-4f31-b9f5-de1892481945"]
 [description:"Respond to email:psy" entry:"1688121928" modified:"1688127528" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
-[description:"Plug groovy in library" entry:"1688132029" modified:"1688132029" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"c30a4667-f06a-48c8-bada-26630f94c1cb"]
-[description:"Plug groovy in Jenkinsfile" entry:"1688372275" modified:"1688372275" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"b673a2f4-b65f-482d-af1c-707307ed5de6"]
 [description:"Enforce service account has enough rights to override an existing resource" entry:"1688372884" modified:"1688372884" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"2618946a-914e-41c8-82e2-cba513aaf70c"]
-[description:"Add read all files in Jenkinsfile" entry:"1688536156" modified:"1688536156" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"2b8f9ac0-d9d3-4bcd-bc60-c98dc3aa2432"]
+[description:"Find next task" entry:"1688551453" modified:"1688551453" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"85e7c933-37fc-44c1-b736-69c962046fce"]
