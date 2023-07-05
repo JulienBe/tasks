@@ -143,3 +143,6 @@ new [description:"Eau pour Lady" entry:"1688558934" modified:"1688558934" projec
 time 1688558939
 new [description:"Courses" entry:"1688558939" modified:"1688558939" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"fcadf391-c989-4c50-abbf-2a934ae4b185"]
 ---
+time 1688558949
+new [description:"Planning jour 1, 2, 3" entry:"1688558949" modified:"1688558949" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"474a8a10-f3da-4bb2-8fc6-9d42966f7b45"]
+---
