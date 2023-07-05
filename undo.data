@@ -88,3 +88,24 @@ time 1688132683
 old [description:"Run a groovy hello world" entry:"1688131981" modified:"1688132173" project:"TS-prod" status:"pending" tags:"next,work" tags_next:"x" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
 new [description:"Run a groovy hello world" end:"1688132683" entry:"1688131981" modified:"1688132683" project:"TS-prod" status:"completed" tags:"next,work" tags_next:"x" tags_work:"x" uuid:"bf3747f4-ca47-4fe0-8a70-5c1044773a04"]
 ---
+time 1688140679
+old [description:"Run a groovy understands yaml" entry:"1688131996" modified:"1688132155" project:"TS-prod" status:"pending" tags:"next,work" tags_next:"x" tags_work:"x" uuid:"92a22b52-60cb-4489-a30e-9aa5b119c192"]
+new [description:"Run a groovy understands yaml" end:"1688140679" entry:"1688131996" modified:"1688140679" project:"TS-prod" status:"completed" tags:"next,work" tags_next:"x" tags_work:"x" uuid:"92a22b52-60cb-4489-a30e-9aa5b119c192"]
+---
+time 1688140695
+old [description:"Run a groovy that checks for rls" entry:"1688132003" modified:"1688132003" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"a8eb47e9-129d-44ea-9e2b-12c3581f89fc"]
+new [description:"Run a groovy that checks for rls" end:"1688140695" entry:"1688132003" modified:"1688140695" project:"TS-prod" status:"completed" tags:"work" tags_work:"x" uuid:"a8eb47e9-129d-44ea-9e2b-12c3581f89fc"]
+---
+time 1688370694
+old [description:"Pay:psy" entry:"1688121920" modified:"1688127523" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
+new [description:"Pay:psy" end:"1688370694" entry:"1688121920" modified:"1688370694" project:"psy" status:"completed" tags:"home" tags_home:"x" uuid:"a2aa88f7-f6cc-4434-96ac-23c97ece1b0a"]
+---
+time 1688372275
+new [description:"Plug groovy in Jenkinsfile" entry:"1688372275" modified:"1688372275" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"b673a2f4-b65f-482d-af1c-707307ed5de6"]
+---
+time 1688372884
+new [description:"Enforce service account has enough rights to override an existing resource" entry:"1688372884" modified:"1688372884" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"2618946a-914e-41c8-82e2-cba513aaf70c"]
+---
+time 1688536156
+new [description:"Add read all files in Jenkinsfile" entry:"1688536156" modified:"1688536156" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"2b8f9ac0-d9d3-4bcd-bc60-c98dc3aa2432"]
+---
