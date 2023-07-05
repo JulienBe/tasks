@@ -140,3 +140,6 @@ new [description:"Heure et addresse pour Scala" entry:"1688558927" modified:"168
 time 1688558934
 new [description:"Eau pour Lady" entry:"1688558934" modified:"1688558934" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"dee3748b-d7d2-4021-b93f-439f6712cd04"]
 ---
+time 1688558939
+new [description:"Courses" entry:"1688558939" modified:"1688558939" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"fcadf391-c989-4c50-abbf-2a934ae4b185"]
+---
