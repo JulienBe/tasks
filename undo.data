@@ -134,3 +134,6 @@ new [description:"Find next task" entry:"1688551453" modified:"1688551453" proje
 time 1688551459
 new [description:"Update" entry:"1688551459" modified:"1688551459" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"e7a98202-6f03-4664-9224-7d063b46ed7f"]
 ---
+time 1688558927
+new [description:"Heure et addresse pour Scala" entry:"1688558927" modified:"1688558927" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"7fa435e5-c8d1-401b-9fb9-99a094794cba"]
+---

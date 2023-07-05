@@ -37,3 +37,4 @@
 {"description":"Fix  No such property: file for class: groovy.lang.Binding","end":"20230705T100211Z","entry":"20230705T071439Z","modified":"20230705T100211Z","project":"TS-prod","status":"completed","uuid":"07f9ca07-ec53-4728-9562-02a30d411d97","tags":["work"]}
 {"description":"Find next task","entry":"20230705T100413Z","modified":"20230705T100413Z","project":"TS-prod","status":"pending","uuid":"85e7c933-37fc-44c1-b736-69c962046fce","tags":["work"]}
 {"description":"Update","entry":"20230705T100419Z","modified":"20230705T100419Z","project":"TS-prod","status":"pending","uuid":"e7a98202-6f03-4664-9224-7d063b46ed7f","tags":["work"]}
+{"description":"Heure et addresse pour Scala","entry":"20230705T120847Z","modified":"20230705T120847Z","project":"vacances","status":"pending","uuid":"7fa435e5-c8d1-401b-9fb9-99a094794cba","tags":["home"]}
