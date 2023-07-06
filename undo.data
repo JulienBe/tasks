@@ -223,3 +223,7 @@ time 1688660427
 old [description:"Courses" entry:"1688558939" modified:"1688558939" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"fcadf391-c989-4c50-abbf-2a934ae4b185"]
 new [description:"Courses" end:"1688660427" entry:"1688558939" modified:"1688660427" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"fcadf391-c989-4c50-abbf-2a934ae4b185"]
 ---
+time 1688660446
+old [description:"Course" entry:"1688626331" modified:"1688626331" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"1d6cf790-63a1-4424-943f-24dd6d1fabca"]
+new [description:"Course" end:"1688660446" entry:"1688626331" modified:"1688660446" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"1d6cf790-63a1-4424-943f-24dd6d1fabca"]
+---
