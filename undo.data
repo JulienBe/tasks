@@ -152,3 +152,70 @@ new [description:"Valise" entry:"1688558959" modified:"1688558959" project:"vaca
 time 1688558964
 new [description:"Pature" entry:"1688558964" modified:"1688558964" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"904ef31f-b926-4c99-b3b6-080539dece80"]
 ---
+time 1688560879
+new [description:"Dump db" entry:"1688560879" modified:"1688560879" project:"network-cam" status:"pending" tags:"work" tags_work:"x" uuid:"3d0bbb24-bb3a-4dff-920c-3e2af486d3ea"]
+---
+time 1688560886
+new [description:"read dump db" entry:"1688560886" modified:"1688560886" project:"network-cam" status:"pending" tags:"work" tags_work:"x" uuid:"706ad5a4-8916-49bd-a813-9f9d201a0852"]
+---
+time 1688561463
+new [description:"receive dygma" entry:"1688561463" modified:"1688561463" project:"setup" status:"pending" tags:"work" tags_work:"x" uuid:"ba458a63-bbd5-4043-8376-dee463d2b701"]
+---
+time 1688561469
+new [description:"setup usb key" entry:"1688561469" modified:"1688561469" project:"setup" status:"pending" tags:"work" tags_work:"x" uuid:"8977ad3b-9c72-4f7d-a0e0-b66a534a7b1e"]
+---
+time 1688561522
+new [description:"setup intellij tab shortcut" entry:"1688561522" modified:"1688561522" project:"setup" status:"pending" tags:"work" tags_work:"x" uuid:"c32e252b-12ce-4da2-8bc5-15df66edef53"]
+---
+time 1688562837
+new [description:"convert dump from snowflake" entry:"1688562837" modified:"1688562837" project:"network-cam" status:"pending" tags:"work" tags_work:"x" uuid:"d801a49a-e29e-4dcd-88c5-1f55db0a1c89"]
+---
+time 1688563154
+new [description:"fix B2403WS" entry:"1688563154" modified:"1688563154" project:"setup" status:"pending" tags:"work" tags_work:"x" uuid:"8243f3ba-8f80-47db-80dc-2502eef8ed12"]
+---
+time 1688626320
+old [description:"Pature" entry:"1688558964" modified:"1688558964" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"904ef31f-b926-4c99-b3b6-080539dece80"]
+new [description:"Pature" end:"1688626320" entry:"1688558964" modified:"1688626320" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"904ef31f-b926-4c99-b3b6-080539dece80"]
+---
+time 1688626331
+new [description:"Course" entry:"1688626331" modified:"1688626331" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"1d6cf790-63a1-4424-943f-24dd6d1fabca"]
+---
+time 1688626337
+new [description:"Kidizoom" entry:"1688626337" modified:"1688626337" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"59d8ed56-480f-425f-b9f3-19a5b5f4a94a"]
+---
+time 1688626349
+old [description:"Find psychologue.net email" entry:"1688121914" modified:"1688121914" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"bb831b3d-da55-4f31-b9f5-de1892481945"]
+new [description:"Find psychologue.net email" end:"1688626349" entry:"1688121914" modified:"1688626349" project:"psy" status:"completed" tags:"home" tags_home:"x" uuid:"bb831b3d-da55-4f31-b9f5-de1892481945"]
+---
+time 1688626354
+old [description:"Eau pour Lady" entry:"1688558934" modified:"1688558934" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"dee3748b-d7d2-4021-b93f-439f6712cd04"]
+new [description:"Eau pour Lady" end:"1688626354" entry:"1688558934" modified:"1688626354" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"dee3748b-d7d2-4021-b93f-439f6712cd04"]
+---
+time 1688626387
+old [description:"Update" entry:"1688551459" modified:"1688551459" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"e7a98202-6f03-4664-9224-7d063b46ed7f"]
+new [description:"Update" end:"1688626387" entry:"1688551459" modified:"1688626387" project:"TS-prod" status:"completed" tags:"work" tags_work:"x" uuid:"e7a98202-6f03-4664-9224-7d063b46ed7f"]
+---
+time 1688626500
+new [description:"Understand wtf to do" entry:"1688626500" modified:"1688626500" project:"tagging" status:"pending" tags:"home" tags_home:"x" uuid:"90cc74af-0539-43c8-9d89-137f5b350879"]
+---
+time 1688626527
+new [description:"Create feature flag" entry:"1688626527" modified:"1688626527" project:"tagging" status:"pending" tags:"home" tags_home:"x" uuid:"5045d9d7-0850-4653-9803-3f4c94e49903"]
+---
+time 1688626534
+new [description:"Create a list of properties ?" entry:"1688626534" modified:"1688626534" project:"tagging" status:"pending" tags:"home" tags_home:"x" uuid:"5e9b0b13-538b-433d-bdd7-e27aec0cbfb6"]
+---
+time 1688626542
+new [description:"Act on a list of properties ?" entry:"1688626542" modified:"1688626542" project:"tagging" status:"pending" tags:"home" tags_home:"x" uuid:"6efdbd7b-15eb-41e9-9bfb-f557021ce864"]
+---
+time 1688644895
+new [description:"Fix the all terrain bike" entry:"1688644895" modified:"1688644895" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"e3fc2dca-0e3a-4c42-80ca-fbee60eac8dd"]
+---
+time 1688644901
+new [description:"Fix the road bike" entry:"1688644901" modified:"1688644901" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"ec4985ce-9c5c-4b95-a321-cce70b90349d"]
+---
+time 1688646299
+new [description:"Aquarium pump" entry:"1688646299" modified:"1688646299" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"6c765da6-8b3c-4a6f-9919-b9104b262fa2"]
+---
+time 1688646348
+new [description:"Greenhouse" entry:"1688646348" modified:"1688646348" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"085dcb72-55f9-4a37-9578-f71d7df57292"]
+---
