@@ -22,5 +22,5 @@
 [description:"Fix the road bike" entry:"1688644901" modified:"1688644901" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"ec4985ce-9c5c-4b95-a321-cce70b90349d"]
 [description:"Aquarium pump" entry:"1688646299" modified:"1688646299" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"6c765da6-8b3c-4a6f-9919-b9104b262fa2"]
 [description:"Greenhouse" entry:"1688646348" modified:"1688646348" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"085dcb72-55f9-4a37-9578-f71d7df57292"]
-[description:"oeufs cuits dur" entry:"1688660790" modified:"1688660790" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"7ffd68f5-c57b-4032-a3ee-eed7a7eb1793"]
+[description:"oeufs cuits dur" end:"1688756492" entry:"1688660790" modified:"1688756492" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"7ffd68f5-c57b-4032-a3ee-eed7a7eb1793"]
 [description:"oreiller" entry:"1688731496" modified:"1688731496" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"ad426c77-6949-4d30-b682-d2615222f3a4"]
