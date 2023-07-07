@@ -289,3 +289,7 @@ time 1688749137
 old [description:"switch" entry:"1688748751" modified:"1688748751" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"592918eb-f3b5-4c9b-ace4-9d87d636e22e"]
 new [description:"switch" end:"1688749137" entry:"1688748751" modified:"1688749137" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"592918eb-f3b5-4c9b-ace4-9d87d636e22e"]
 ---
+time 1688752489
+old [description:"poulallier" entry:"1688660599" modified:"1688660599" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"e0209388-6ffe-45a9-a403-68f768be9923"]
+new [description:"poulallier" end:"1688752489" entry:"1688660599" modified:"1688752489" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"e0209388-6ffe-45a9-a403-68f768be9923"]
+---
