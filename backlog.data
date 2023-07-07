@@ -75,3 +75,4 @@
 {"description":"Heure et addresse pour Scala","end":"20230706T175547Z","entry":"20230705T120847Z","modified":"20230706T175547Z","project":"vacances","status":"completed","uuid":"7fa435e5-c8d1-401b-9fb9-99a094794cba","tags":["home"]}
 {"description":"oreiller","entry":"20230707T120456Z","modified":"20230707T120456Z","project":"vacances","status":"pending","uuid":"ad426c77-6949-4d30-b682-d2615222f3a4","tags":["home"]}
 {"description":"plein","end":"20230707T160842Z","entry":"20230706T162249Z","modified":"20230707T160842Z","project":"vacances","status":"completed","uuid":"570f9216-1163-457e-9b2d-e97a6f488893","tags":["home"]}
+{"description":"aerosol","entry":"20230707T161646Z","modified":"20230707T161646Z","project":"vacances","status":"pending","uuid":"f95fee69-04e8-449d-976e-8796c38dd24d","tags":["home"]}
