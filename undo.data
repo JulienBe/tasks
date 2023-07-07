@@ -271,3 +271,6 @@ time 1688748707
 old [description:"aerosol" entry:"1688746606" modified:"1688746606" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"f95fee69-04e8-449d-976e-8796c38dd24d"]
 new [description:"aerosol" end:"1688748707" entry:"1688746606" modified:"1688748707" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"f95fee69-04e8-449d-976e-8796c38dd24d"]
 ---
+time 1688748751
+new [description:"switch" entry:"1688748751" modified:"1688748751" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"592918eb-f3b5-4c9b-ace4-9d87d636e22e"]
+---
