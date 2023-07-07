@@ -274,3 +274,7 @@ new [description:"aerosol" end:"1688748707" entry:"1688746606" modified:"1688748
 time 1688748751
 new [description:"switch" entry:"1688748751" modified:"1688748751" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"592918eb-f3b5-4c9b-ace4-9d87d636e22e"]
 ---
+time 1688748983
+old [description:"poubelles chevaux" entry:"1688660481" modified:"1688660481" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"5e277a3d-bed7-4237-a88a-d23f0efabab7"]
+new [description:"poubelles chevaux" end:"1688748983" entry:"1688660481" modified:"1688748983" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"5e277a3d-bed7-4237-a88a-d23f0efabab7"]
+---

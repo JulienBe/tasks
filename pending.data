@@ -22,7 +22,7 @@
 [description:"Fix the road bike" entry:"1688644901" modified:"1688644901" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"ec4985ce-9c5c-4b95-a321-cce70b90349d"]
 [description:"Aquarium pump" entry:"1688646299" modified:"1688646299" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"6c765da6-8b3c-4a6f-9919-b9104b262fa2"]
 [description:"Greenhouse" entry:"1688646348" modified:"1688646348" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"085dcb72-55f9-4a37-9578-f71d7df57292"]
-[description:"poubelles chevaux" entry:"1688660481" modified:"1688660481" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"5e277a3d-bed7-4237-a88a-d23f0efabab7"]
+[description:"poubelles chevaux" end:"1688748983" entry:"1688660481" modified:"1688748983" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"5e277a3d-bed7-4237-a88a-d23f0efabab7"]
 [description:"poulallier" entry:"1688660599" modified:"1688660599" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"e0209388-6ffe-45a9-a403-68f768be9923"]
 [description:"oeufs cuits dur" entry:"1688660790" modified:"1688660790" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"7ffd68f5-c57b-4032-a3ee-eed7a7eb1793"]
 [description:"fenetres" entry:"1688660909" modified:"1688660909" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"5a71f319-0d8e-465c-83a1-e7d0b6186f29"]
