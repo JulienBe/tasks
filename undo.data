@@ -285,3 +285,7 @@ new [description:"clef porte cabinet" end:"1688749006" entry:"1688660921" modifi
 time 1688749032
 new [description:"Fermer cabinet" entry:"1688749032" modified:"1688749032" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"3bd56274-0588-4f60-b2ce-3b0b804dc0ac"]
 ---
+time 1688749137
+old [description:"switch" entry:"1688748751" modified:"1688748751" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"592918eb-f3b5-4c9b-ace4-9d87d636e22e"]
+new [description:"switch" end:"1688749137" entry:"1688748751" modified:"1688749137" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"592918eb-f3b5-4c9b-ace4-9d87d636e22e"]
+---
