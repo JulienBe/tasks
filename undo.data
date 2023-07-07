@@ -263,3 +263,7 @@ time 1688747834
 old [description:"Kidizoom" entry:"1688626337" modified:"1688626337" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"59d8ed56-480f-425f-b9f3-19a5b5f4a94a"]
 new [description:"Kidizoom" end:"1688747834" entry:"1688626337" modified:"1688747834" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"59d8ed56-480f-425f-b9f3-19a5b5f4a94a"]
 ---
+time 1688747852
+old [description:"Valise" entry:"1688558959" modified:"1688558959" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"99c93bf4-b5c0-4519-853f-8a105226c888"]
+new [description:"Valise" end:"1688747852" entry:"1688558959" modified:"1688747852" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"99c93bf4-b5c0-4519-853f-8a105226c888"]
+---
