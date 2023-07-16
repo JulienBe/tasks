@@ -322,3 +322,6 @@ new [description:"faire armature" entry:"1689496473" modified:"1689496473" proje
 time 1689496533
 new [description:"trouver bache" entry:"1689496533" modified:"1689496533" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"598779d1-94cf-445f-9ab4-8aece0c4894e"]
 ---
+time 1689496538
+new [description:"faire toit" entry:"1689496538" modified:"1689496538" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"74be27a9-b651-4694-a107-99e1e030c25b"]
+---
