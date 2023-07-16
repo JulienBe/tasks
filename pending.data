@@ -3,7 +3,6 @@
 [description:"Static version of network mocks" entry:"1688121831" modified:"1688121831" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409"]
 [description:"Query version of network mocks" entry:"1688121842" modified:"1688121842" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"4f308b85-bc6f-4783-8c93-03b9d84dc005"]
 [description:"React to filters version of network mocks" entry:"1688121849" modified:"1688121849" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"6e179514-9208-42e2-8a6a-6bae2a939665"]
-[description:"Respond to email:psy" end:"1689499160" entry:"1688121928" modified:"1689499160" project:"psy" status:"completed" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
 [description:"Enforce service account has enough rights to override an existing resource" entry:"1688372884" modified:"1688372884" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"2618946a-914e-41c8-82e2-cba513aaf70c"]
 [description:"Find next task" entry:"1688551453" modified:"1688551453" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"85e7c933-37fc-44c1-b736-69c962046fce"]
 [description:"Dump db" entry:"1688560879" modified:"1688560879" project:"network-cam" status:"pending" tags:"work" tags_work:"x" uuid:"3d0bbb24-bb3a-4dff-920c-3e2af486d3ea"]
@@ -45,3 +44,4 @@
 [description:"tri wing" entry:"1689497222" modified:"1689497222" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
 [description:"battery" entry:"1689497226" modified:"1689497226" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3"]
 [description:"Access point in the barn" entry:"1689497422" modified:"1689497422" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"4649e673-529f-419b-b67d-ad793833e768"]
+[description:"etagère" entry:"1689499355" modified:"1689499355" project:"emrys" status:"pending" tags:"home" tags_home:"x" uuid:"0f67c7bb-5ce1-468b-adfd-c816da643ba1"]

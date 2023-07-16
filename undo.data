@@ -396,3 +396,6 @@ time 1689499160
 old [description:"Respond to email:psy" entry:"1688121928" modified:"1688127528" project:"psy" status:"pending" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
 new [description:"Respond to email:psy" end:"1689499160" entry:"1688121928" modified:"1689499160" project:"psy" status:"completed" tags:"home" tags_home:"x" uuid:"2978ec3e-69c4-4047-a40b-19dddd26aa58"]
 ---
+time 1689499355
+new [description:"etagère" entry:"1689499355" modified:"1689499355" project:"emrys" status:"pending" tags:"home" tags_home:"x" uuid:"0f67c7bb-5ce1-468b-adfd-c816da643ba1"]
+---
