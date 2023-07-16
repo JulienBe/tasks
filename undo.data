@@ -331,3 +331,6 @@ new [description:"faire toit bien" entry:"1689496545" modified:"1689496545" proj
 time 1689496553
 new [description:"trouver rangement adjacent" entry:"1689496553" modified:"1689496553" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"67e8ff80-7700-46f7-bc04-e8fe68737b3f"]
 ---
+time 1689496557
+new [description:"trouver sable" entry:"1689496557" modified:"1689496557" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"0a1eadd7-df99-49d7-b0eb-cc5be98199ef"]
+---
