@@ -343,3 +343,6 @@ new [description:"vider piscine" entry:"1689496669" modified:"1689496669" projec
 time 1689496696
 new [description:"nettoyer piscine" entry:"1689496696" modified:"1689496696" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"086ae1e4-3b3d-4424-b69e-cfb81b1538aa"]
 ---
+time 1689496706
+new [description:"remplir piscine" entry:"1689496706" modified:"1689496706" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"1078d126-a948-4640-9d28-1e2e40e7df88"]
+---
