@@ -352,3 +352,6 @@ new [description:"faire fonctionner pompe" entry:"1689496742" modified:"16894967
 time 1689496764
 new [description:"mettre chlore" entry:"1689496764" modified:"1689496764" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"ca2cecdd-fda3-4be6-b465-44abe066cc89"]
 ---
+time 1689496768
+new [description:"trouver bache" entry:"1689496768" modified:"1689496768" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"4562c21c-af74-4bc1-a170-bfb8f8030471"]
+---
