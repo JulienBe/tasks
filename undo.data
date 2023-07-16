@@ -319,3 +319,6 @@ new [description:"deblayer emplacement" entry:"1689496466" modified:"1689496466"
 time 1689496473
 new [description:"faire armature" entry:"1689496473" modified:"1689496473" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"69dd74be-9383-4ca0-9f6c-1db4441dd6de"]
 ---
+time 1689496533
+new [description:"trouver bache" entry:"1689496533" modified:"1689496533" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"598779d1-94cf-445f-9ab4-8aece0c4894e"]
+---
