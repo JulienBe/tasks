@@ -91,3 +91,4 @@
 {"description":"Planning jour 1, 2, 3","end":"20230716T083303Z","entry":"20230705T120909Z","modified":"20230716T083303Z","project":"vacances","status":"completed","uuid":"474a8a10-f3da-4bb2-8fc6-9d42966f7b45","tags":["home"]}
 {"description":"oreiller","end":"20230716T083317Z","entry":"20230707T120456Z","modified":"20230716T083317Z","project":"vacances","status":"completed","uuid":"ad426c77-6949-4d30-b682-d2615222f3a4","tags":["home"]}
 {"description":"deblayer emplacement","entry":"20230716T083426Z","modified":"20230716T083426Z","project":"bac_a_sable","status":"pending","uuid":"dc5ce097-7338-4774-a57a-b711a13b6586","tags":["home"]}
+{"description":"faire armature","entry":"20230716T083433Z","modified":"20230716T083433Z","project":"bac_a_sable","status":"pending","uuid":"69dd74be-9383-4ca0-9f6c-1db4441dd6de","tags":["home"]}
