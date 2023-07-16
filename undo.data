@@ -424,3 +424,6 @@ new [description:"etagere" end:"1689505879" entry:"1689499855" modified:"1689505
 time 1689506410
 new [description:"ranger pierres" entry:"1689506410" modified:"1689506410" project:"cleanup" status:"pending" tags:"perso" tags_perso:"x" uuid:"9f6e812f-7463-4c03-a3b0-1c2bf35ebce6"]
 ---
+time 1689516388
+new [description:"change usb mouse cable" entry:"1689516388" modified:"1689516388" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"5e5b020a-a8dc-42e4-aa78-c3fc6191f7c6"]
+---
