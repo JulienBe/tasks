@@ -124,3 +124,4 @@
 {"description":"etabli","entry":"20230716T111051Z","modified":"20230716T111051Z","project":"atelier","status":"pending","uuid":"6877074d-66e0-420e-89c6-5c17698ec7d5","tags":["perso"]}
 {"description":"evacuer barrieres","entry":"20230716T111101Z","modified":"20230716T111101Z","project":"atelier","status":"pending","uuid":"ae2fe4dc-53f9-410a-9dae-42621d1f9da6","tags":["perso"]}
 {"description":"evacuer tuiles","entry":"20230716T111107Z","modified":"20230716T111107Z","project":"atelier","status":"pending","uuid":"ae0bd88b-20e2-4c29-8c3d-cfe157508996","tags":["perso"]}
+{"description":"etagere","end":"20230716T111119Z","entry":"20230716T093055Z","modified":"20230716T111119Z","project":"atelier","status":"completed","uuid":"80fb52f7-984b-441d-a475-866abaed0833","tags":["perso"]}
