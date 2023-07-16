@@ -346,3 +346,6 @@ new [description:"nettoyer piscine" entry:"1689496696" modified:"1689496696" pro
 time 1689496706
 new [description:"remplir piscine" entry:"1689496706" modified:"1689496706" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"1078d126-a948-4640-9d28-1e2e40e7df88"]
 ---
+time 1689496742
+new [description:"faire fonctionner pompe" entry:"1689496742" modified:"1689496742" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"9fff9b87-2080-49f0-a6ef-b5f8d6ea12af"]
+---
