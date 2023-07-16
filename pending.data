@@ -46,7 +46,6 @@
 [description:"Access point in the barn" entry:"1689497422" modified:"1689497422" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"4649e673-529f-419b-b67d-ad793833e768"]
 [description:"etagère" entry:"1689499355" modified:"1689499355" project:"emrys" status:"pending" tags:"home" tags_home:"x" uuid:"0f67c7bb-5ce1-468b-adfd-c816da643ba1"]
 [description:"cadre" entry:"1689499361" modified:"1689499361" project:"emrys" status:"pending" tags:"home" tags_home:"x" uuid:"46ea3e37-4523-4aa1-a469-d5e371947afd"]
-[description:"etagere" end:"1689505879" entry:"1689499855" modified:"1689505879" project:"atelier" status:"completed" tags:"perso" tags_perso:"x" uuid:"80fb52f7-984b-441d-a475-866abaed0833"]
 [description:"ranger sur etagere" entry:"1689505844" modified:"1689505844" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"2872251e-1232-460b-9aac-b44b444bb33a"]
 [description:"etabli" entry:"1689505851" modified:"1689505851" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"6877074d-66e0-420e-89c6-5c17698ec7d5"]
 [description:"evacuer barrieres" entry:"1689505861" modified:"1689505861" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"ae2fe4dc-53f9-410a-9dae-42621d1f9da6"]
