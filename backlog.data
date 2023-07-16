@@ -104,3 +104,4 @@
 {"description":"faire fonctionner pompe","entry":"20230716T083902Z","modified":"20230716T083902Z","project":"piscine","status":"pending","uuid":"9fff9b87-2080-49f0-a6ef-b5f8d6ea12af","tags":["home"]}
 {"description":"mettre chlore","entry":"20230716T083924Z","modified":"20230716T083924Z","project":"piscine","status":"pending","uuid":"ca2cecdd-fda3-4be6-b465-44abe066cc89","tags":["home"]}
 {"description":"trouver bache","entry":"20230716T083928Z","modified":"20230716T083928Z","project":"piscine","status":"pending","uuid":"4562c21c-af74-4bc1-a170-bfb8f8030471","tags":["home"]}
+{"description":"add shadows","entry":"20230716T084058Z","modified":"20230716T084058Z","project":"med-fan-wipeout","status":"pending","uuid":"02e5b665-64b8-4150-b52e-2d26bb64b369","tags":["perso"]}
