@@ -382,3 +382,6 @@ new [description:"aspi" entry:"1689497196" modified:"1689497196" project:"cleanu
 time 1689497222
 new [description:"tri wing" entry:"1689497222" modified:"1689497222" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
 ---
+time 1689497226
+new [description:"battery" entry:"1689497226" modified:"1689497226" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3"]
+---
