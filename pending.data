@@ -39,7 +39,6 @@
 [description:"add points" entry:"1689496946" modified:"1689496946" project:"vacances_map" status:"pending" tags:"perso" tags_perso:"x" uuid:"68cfaea8-a676-4f03-9db4-93d969a993b6"]
 [description:"add points" entry:"1689497055" modified:"1689497055" project:"suivi_travaux" status:"pending" tags:"perso" tags_perso:"x" uuid:"2f23a6d0-c6b7-42b3-941d-620a96761bdf"]
 [description:"raccrocher baches" entry:"1689497063" modified:"1689497063" project:"suivi_travaux" status:"pending" tags:"perso" tags_perso:"x" uuid:"d3069352-506e-4cce-95d0-df40e968bfa9"]
-[description:"mail archimage" end:"1689498272" entry:"1689497068" modified:"1689498272" project:"suivi_travaux" status:"completed" tags:"perso" tags_perso:"x" uuid:"7a629a0a-3e88-42fe-9e80-acccd4390fe5"]
 [description:"poubelles" entry:"1689497190" modified:"1689497190" project:"cleanup" status:"pending" tags:"home" tags_home:"x" uuid:"de7313b8-e945-4bc0-b0d5-5991f9351ae5"]
 [description:"potager" entry:"1689497193" modified:"1689497193" project:"cleanup" status:"pending" tags:"home" tags_home:"x" uuid:"f99abf85-f9cd-4f23-937f-22a6c24d5ee6"]
 [description:"aspi" entry:"1689497196" modified:"1689497196" project:"cleanup" status:"pending" tags:"home" tags_home:"x" uuid:"b40ff061-acf0-45f4-8807-c3f8f878c379"]
