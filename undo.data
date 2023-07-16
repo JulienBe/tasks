@@ -385,3 +385,6 @@ new [description:"tri wing" entry:"1689497222" modified:"1689497222" project:"ga
 time 1689497226
 new [description:"battery" entry:"1689497226" modified:"1689497226" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3"]
 ---
+time 1689497422
+new [description:"Access point in the barn" entry:"1689497422" modified:"1689497422" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"4649e673-529f-419b-b67d-ad793833e768"]
+---
