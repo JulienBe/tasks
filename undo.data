@@ -421,3 +421,6 @@ time 1689505879
 old [description:"etagere" entry:"1689499855" modified:"1689499855" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"80fb52f7-984b-441d-a475-866abaed0833"]
 new [description:"etagere" end:"1689505879" entry:"1689499855" modified:"1689505879" project:"atelier" status:"completed" tags:"perso" tags_perso:"x" uuid:"80fb52f7-984b-441d-a475-866abaed0833"]
 ---
+time 1689506410
+new [description:"ranger pierres" entry:"1689506410" modified:"1689506410" project:"cleanup" status:"pending" tags:"perso" tags_perso:"x" uuid:"9f6e812f-7463-4c03-a3b0-1c2bf35ebce6"]
+---
