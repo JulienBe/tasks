@@ -388,3 +388,7 @@ new [description:"battery" entry:"1689497226" modified:"1689497226" project:"gam
 time 1689497422
 new [description:"Access point in the barn" entry:"1689497422" modified:"1689497422" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"4649e673-529f-419b-b67d-ad793833e768"]
 ---
+time 1689498272
+old [description:"mail archimage" entry:"1689497068" modified:"1689497068" project:"suivi_travaux" status:"pending" tags:"perso" tags_perso:"x" uuid:"7a629a0a-3e88-42fe-9e80-acccd4390fe5"]
+new [description:"mail archimage" end:"1689498272" entry:"1689497068" modified:"1689498272" project:"suivi_travaux" status:"completed" tags:"perso" tags_perso:"x" uuid:"7a629a0a-3e88-42fe-9e80-acccd4390fe5"]
+---
