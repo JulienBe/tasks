@@ -340,3 +340,6 @@ new [description:"trouver jouets cools" entry:"1689496592" modified:"1689496592"
 time 1689496669
 new [description:"vider piscine" entry:"1689496669" modified:"1689496669" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"66c4c067-19d6-474d-87e9-3e6d7c81eaf3"]
 ---
+time 1689496696
+new [description:"nettoyer piscine" entry:"1689496696" modified:"1689496696" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"086ae1e4-3b3d-4424-b69e-cfb81b1538aa"]
+---

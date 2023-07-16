@@ -99,3 +99,4 @@
 {"description":"trouver sable","entry":"20230716T083557Z","modified":"20230716T083557Z","project":"bac_a_sable","status":"pending","uuid":"0a1eadd7-df99-49d7-b0eb-cc5be98199ef","tags":["home"]}
 {"description":"trouver jouets cools","entry":"20230716T083632Z","modified":"20230716T083632Z","project":"bac_a_sable","status":"pending","uuid":"731b7a76-5150-43f0-b798-3d939f1cced7","tags":["home"]}
 {"description":"vider piscine","entry":"20230716T083749Z","modified":"20230716T083749Z","project":"piscine","status":"pending","uuid":"66c4c067-19d6-474d-87e9-3e6d7c81eaf3","tags":["home"]}
+{"description":"nettoyer piscine","entry":"20230716T083816Z","modified":"20230716T083816Z","project":"piscine","status":"pending","uuid":"086ae1e4-3b3d-4424-b69e-cfb81b1538aa","tags":["home"]}
