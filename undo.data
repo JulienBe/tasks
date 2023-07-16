@@ -313,3 +313,6 @@ time 1689496397
 old [description:"oreiller" entry:"1688731496" modified:"1688731496" project:"vacances" status:"pending" tags:"home" tags_home:"x" uuid:"ad426c77-6949-4d30-b682-d2615222f3a4"]
 new [description:"oreiller" end:"1689496397" entry:"1688731496" modified:"1689496397" project:"vacances" status:"completed" tags:"home" tags_home:"x" uuid:"ad426c77-6949-4d30-b682-d2615222f3a4"]
 ---
+time 1689496466
+new [description:"deblayer emplacement" entry:"1689496466" modified:"1689496466" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"dc5ce097-7338-4774-a57a-b711a13b6586"]
+---
