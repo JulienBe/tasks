@@ -402,3 +402,6 @@ new [description:"etagère" entry:"1689499355" modified:"1689499355" project:"em
 time 1689499361
 new [description:"cadre" entry:"1689499361" modified:"1689499361" project:"emrys" status:"pending" tags:"home" tags_home:"x" uuid:"46ea3e37-4523-4aa1-a469-d5e371947afd"]
 ---
+time 1689499855
+new [description:"etagere" entry:"1689499855" modified:"1689499855" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"80fb52f7-984b-441d-a475-866abaed0833"]
+---

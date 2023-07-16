@@ -119,3 +119,4 @@
 {"description":"Respond to email:psy","end":"20230716T091920Z","entry":"20230630T104528Z","modified":"20230716T091920Z","project":"psy","status":"completed","uuid":"2978ec3e-69c4-4047-a40b-19dddd26aa58","tags":["home"]}
 {"description":"etagère","entry":"20230716T092235Z","modified":"20230716T092235Z","project":"emrys","status":"pending","uuid":"0f67c7bb-5ce1-468b-adfd-c816da643ba1","tags":["home"]}
 {"description":"cadre","entry":"20230716T092241Z","modified":"20230716T092241Z","project":"emrys","status":"pending","uuid":"46ea3e37-4523-4aa1-a469-d5e371947afd","tags":["home"]}
+{"description":"etagere","entry":"20230716T093055Z","modified":"20230716T093055Z","project":"atelier","status":"pending","uuid":"80fb52f7-984b-441d-a475-866abaed0833","tags":["perso"]}
