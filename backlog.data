@@ -116,3 +116,4 @@
 {"description":"battery","entry":"20230716T084706Z","modified":"20230716T084706Z","project":"gameboy","status":"pending","uuid":"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3","tags":["perso"]}
 {"description":"Access point in the barn","entry":"20230716T085022Z","modified":"20230716T085022Z","project":"for_me","status":"pending","uuid":"4649e673-529f-419b-b67d-ad793833e768","tags":["home"]}
 {"description":"mail archimage","end":"20230716T090432Z","entry":"20230716T084428Z","modified":"20230716T090432Z","project":"suivi_travaux","status":"completed","uuid":"7a629a0a-3e88-42fe-9e80-acccd4390fe5","tags":["perso"]}
+{"description":"Respond to email:psy","end":"20230716T091920Z","entry":"20230630T104528Z","modified":"20230716T091920Z","project":"psy","status":"completed","uuid":"2978ec3e-69c4-4047-a40b-19dddd26aa58","tags":["home"]}
