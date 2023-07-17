@@ -52,3 +52,4 @@
 [description:"evacuer tuiles" entry:"1689505867" modified:"1689505867" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"ae0bd88b-20e2-4c29-8c3d-cfe157508996"]
 [description:"ranger pierres" entry:"1689506410" modified:"1689506410" project:"cleanup" status:"pending" tags:"perso" tags_perso:"x" uuid:"9f6e812f-7463-4c03-a3b0-1c2bf35ebce6"]
 [description:"change usb mouse cable" entry:"1689516388" modified:"1689516388" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"5e5b020a-a8dc-42e4-aa78-c3fc6191f7c6"]
+[description:"find and import the lib" entry:"1689590476" modified:"1689590476" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"5cebe1a2-9f68-4d24-b036-708076a0c6a0"]

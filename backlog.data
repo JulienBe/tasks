@@ -127,3 +127,4 @@
 {"description":"etagere","end":"20230716T111119Z","entry":"20230716T093055Z","modified":"20230716T111119Z","project":"atelier","status":"completed","uuid":"80fb52f7-984b-441d-a475-866abaed0833","tags":["perso"]}
 {"description":"ranger pierres","entry":"20230716T112010Z","modified":"20230716T112010Z","project":"cleanup","status":"pending","uuid":"9f6e812f-7463-4c03-a3b0-1c2bf35ebce6","tags":["perso"]}
 {"description":"change usb mouse cable","entry":"20230716T140628Z","modified":"20230716T140628Z","project":"setup","status":"pending","uuid":"5e5b020a-a8dc-42e4-aa78-c3fc6191f7c6","tags":["perso"]}
+{"description":"find and import the lib","entry":"20230717T104116Z","modified":"20230717T104116Z","project":"cam_db","status":"pending","uuid":"5cebe1a2-9f68-4d24-b036-708076a0c6a0","tags":["work"]}
