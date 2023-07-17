@@ -430,3 +430,6 @@ new [description:"change usb mouse cable" entry:"1689516388" modified:"168951638
 time 1689590476
 new [description:"find and import the lib" entry:"1689590476" modified:"1689590476" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"5cebe1a2-9f68-4d24-b036-708076a0c6a0"]
 ---
+time 1689590482
+new [description:"get the first query working" entry:"1689590482" modified:"1689590482" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"7252b3b2-16c0-4a96-8364-4f6c3f5bddc6"]
+---
