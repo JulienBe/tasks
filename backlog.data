@@ -129,3 +129,4 @@
 {"description":"change usb mouse cable","entry":"20230716T140628Z","modified":"20230716T140628Z","project":"setup","status":"pending","uuid":"5e5b020a-a8dc-42e4-aa78-c3fc6191f7c6","tags":["perso"]}
 {"description":"find and import the lib","entry":"20230717T104116Z","modified":"20230717T104116Z","project":"cam_db","status":"pending","uuid":"5cebe1a2-9f68-4d24-b036-708076a0c6a0","tags":["work"]}
 {"description":"get the first query working","entry":"20230717T104122Z","modified":"20230717T104122Z","project":"cam_db","status":"pending","uuid":"7252b3b2-16c0-4a96-8364-4f6c3f5bddc6","tags":["work"]}
+{"description":"get a meaningful query","entry":"20230717T104133Z","modified":"20230717T104133Z","project":"cam_db","status":"pending","uuid":"807267d5-3fe6-4511-b37a-3f60aafb0949","tags":["work"]}
