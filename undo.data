@@ -436,3 +436,25 @@ new [description:"get the first query working" entry:"1689590482" modified:"1689
 time 1689590493
 new [description:"get a meaningful query" entry:"1689590493" modified:"1689590493" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"807267d5-3fe6-4511-b37a-3f60aafb0949"]
 ---
+time 1689599489
+old [description:"find and import the lib" entry:"1689590476" modified:"1689590476" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"5cebe1a2-9f68-4d24-b036-708076a0c6a0"]
+new [description:"find and import the lib" end:"1689599489" entry:"1689590476" modified:"1689599489" project:"cam_db" status:"completed" tags:"work" tags_work:"x" uuid:"5cebe1a2-9f68-4d24-b036-708076a0c6a0"]
+---
+time 1689769692
+old [description:"poubelles" entry:"1689497190" modified:"1689497190" project:"cleanup" status:"pending" tags:"home" tags_home:"x" uuid:"de7313b8-e945-4bc0-b0d5-5991f9351ae5"]
+new [description:"poubelles" end:"1689769692" entry:"1689497190" modified:"1689769692" project:"cleanup" status:"completed" tags:"home" tags_home:"x" uuid:"de7313b8-e945-4bc0-b0d5-5991f9351ae5"]
+---
+time 1689769699
+old [description:"aspi" entry:"1689497196" modified:"1689497196" project:"cleanup" status:"pending" tags:"home" tags_home:"x" uuid:"b40ff061-acf0-45f4-8807-c3f8f878c379"]
+new [description:"aspi" end:"1689769699" entry:"1689497196" modified:"1689769699" project:"cleanup" status:"completed" tags:"home" tags_home:"x" uuid:"b40ff061-acf0-45f4-8807-c3f8f878c379"]
+---
+time 1689769764
+new [description:"burndown at startup" entry:"1689769764" modified:"1689769764" project:"cleanup" status:"pending" tags:"perso" tags_perso:"x" uuid:"e56afe56-8606-4ecc-a7f2-6ec71735ffa1"]
+---
+time 1689769775
+old [description:"etabli" entry:"1689505851" modified:"1689505851" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"6877074d-66e0-420e-89c6-5c17698ec7d5"]
+new [description:"etabli" end:"1689769775" entry:"1689505851" modified:"1689769775" project:"atelier" status:"completed" tags:"perso" tags_perso:"x" uuid:"6877074d-66e0-420e-89c6-5c17698ec7d5"]
+---
+time 1689769873
+new [description:"hashnode" entry:"1689769873" modified:"1689769873" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]
+---
