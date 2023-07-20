@@ -158,3 +158,4 @@
 {"description":"débarasser","entry":"20230720T175749Z","modified":"20230720T175749Z","project":"chambre","status":"pending","uuid":"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1","tags":["home"]}
 {"description":"dithering","entry":"20230720T193515Z","modified":"20230720T193515Z","project":"med-fan-wipeout","status":"pending","uuid":"92be987c-d3fe-40f8-a5e1-df8f81ebc569","tags":["perso"]}
 {"description":"add shadows","entry":"20230716T084058Z","modified":"20230720T193619Z","project":"med-fan-wipeout","start":"20230720T193619Z","status":"pending","uuid":"02e5b665-64b8-4150-b52e-2d26bb64b369","tags":["perso"]}
+{"description":"receive dygma","entry":"20230705T125103Z","modified":"20230720T193630Z","project":"setup","start":"20230720T193630Z","status":"pending","uuid":"ba458a63-bbd5-4043-8376-dee463d2b701","tags":["work"]}

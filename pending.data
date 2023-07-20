@@ -4,7 +4,7 @@
 [description:"Find next task" entry:"1688551453" modified:"1688551453" project:"TS-prod" status:"pending" tags:"work" tags_work:"x" uuid:"85e7c933-37fc-44c1-b736-69c962046fce"]
 [description:"Dump db" entry:"1688560879" modified:"1688560879" project:"network-cam" status:"pending" tags:"work" tags_work:"x" uuid:"3d0bbb24-bb3a-4dff-920c-3e2af486d3ea"]
 [description:"read dump db" entry:"1688560886" modified:"1688560886" project:"network-cam" status:"pending" tags:"work" tags_work:"x" uuid:"706ad5a4-8916-49bd-a813-9f9d201a0852"]
-[description:"receive dygma" entry:"1688561463" modified:"1688561463" project:"setup" status:"pending" tags:"work" tags_work:"x" uuid:"ba458a63-bbd5-4043-8376-dee463d2b701"]
+[description:"receive dygma" entry:"1688561463" modified:"1689881790" project:"setup" start:"1689881790" status:"pending" tags:"work" tags_work:"x" uuid:"ba458a63-bbd5-4043-8376-dee463d2b701"]
 [description:"setup usb key" entry:"1688561469" modified:"1688561469" project:"setup" status:"pending" tags:"work" tags_work:"x" uuid:"8977ad3b-9c72-4f7d-a0e0-b66a534a7b1e"]
 [description:"setup intellij tab shortcut" entry:"1688561522" modified:"1688561522" project:"setup" status:"pending" tags:"work" tags_work:"x" uuid:"c32e252b-12ce-4da2-8bc5-15df66edef53"]
 [description:"convert dump from snowflake" entry:"1688562837" modified:"1688562837" project:"network-cam" status:"pending" tags:"work" tags_work:"x" uuid:"d801a49a-e29e-4dcd-88c5-1f55db0a1c89"]
