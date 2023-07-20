@@ -38,6 +38,6 @@
 [description:"evacuer tuiles" entry:"1689505867" modified:"1689505867" project:"atelier" status:"pending" tags:"perso" tags_perso:"x" uuid:"ae0bd88b-20e2-4c29-8c3d-cfe157508996"]
 [description:"ranger pierres" entry:"1689506410" modified:"1689506410" project:"cleanup" status:"pending" tags:"perso" tags_perso:"x" uuid:"9f6e812f-7463-4c03-a3b0-1c2bf35ebce6"]
 [description:"change usb mouse cable" entry:"1689516388" modified:"1689516388" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"5e5b020a-a8dc-42e4-aa78-c3fc6191f7c6"]
-[description:"get a meaningful query" entry:"1689590493" modified:"1689590493" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"807267d5-3fe6-4511-b37a-3f60aafb0949"]
+[description:"get a meaningful query" end:"1689854842" entry:"1689590493" modified:"1689854842" project:"cam_db" status:"completed" tags:"work" tags_work:"x" uuid:"807267d5-3fe6-4511-b37a-3f60aafb0949"]
 [description:"burndown at startup" entry:"1689769764" modified:"1689769764" project:"cleanup" status:"pending" tags:"perso" tags_perso:"x" uuid:"e56afe56-8606-4ecc-a7f2-6ec71735ffa1"]
 [description:"hashnode" entry:"1689769873" modified:"1689769873" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]

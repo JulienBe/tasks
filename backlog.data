@@ -152,3 +152,4 @@
 {"description":"add points","end":"20230720T120440Z","entry":"20230716T084415Z","modified":"20230720T120440Z","project":"suivi_travaux","status":"completed","uuid":"2f23a6d0-c6b7-42b3-941d-620a96761bdf","tags":["perso"]}
 {"description":"raccrocher baches","end":"20230720T120440Z","entry":"20230716T084423Z","modified":"20230720T120440Z","project":"suivi_travaux","status":"completed","uuid":"d3069352-506e-4cce-95d0-df40e968bfa9","tags":["perso"]}
 {"description":"vider piscine","end":"20230720T120503Z","entry":"20230716T083749Z","modified":"20230720T120503Z","project":"piscine","status":"completed","uuid":"66c4c067-19d6-474d-87e9-3e6d7c81eaf3","tags":["home"]}
+{"description":"get a meaningful query","end":"20230720T120722Z","entry":"20230717T104133Z","modified":"20230720T120722Z","project":"cam_db","status":"completed","uuid":"807267d5-3fe6-4511-b37a-3f60aafb0949","tags":["work"]}
