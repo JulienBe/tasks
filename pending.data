@@ -52,4 +52,3 @@
 [description:"get a meaningful query" entry:"1689590493" modified:"1689590493" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"807267d5-3fe6-4511-b37a-3f60aafb0949"]
 [description:"burndown at startup" entry:"1689769764" modified:"1689769764" project:"cleanup" status:"pending" tags:"perso" tags_perso:"x" uuid:"e56afe56-8606-4ecc-a7f2-6ec71735ffa1"]
 [description:"hashnode" entry:"1689769873" modified:"1689769873" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]
-[description:"inventory sql compilation error" end:"1689838141" entry:"1689780321" modified:"1689838141" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"603b1c14-11af-4ccf-98e8-fadf48ba48a6"]
