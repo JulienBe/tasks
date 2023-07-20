@@ -535,3 +535,6 @@ new [description:"Static version of network mocks" end:"1689854883" entry:"16881
 time 1689875869
 new [description:"débarasser" entry:"1689875869" modified:"1689875869" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1"]
 ---
+time 1689881715
+new [description:"dithering" entry:"1689881715" modified:"1689881715" project:"med-fan-wipeout" status:"pending" tags:"perso" tags_perso:"x" uuid:"92be987c-d3fe-40f8-a5e1-df8f81ebc569"]
+---
