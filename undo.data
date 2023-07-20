@@ -462,3 +462,17 @@ time 1689769940
 old [description:"get the first query working" entry:"1689590482" modified:"1689590482" project:"cam_db" status:"pending" tags:"work" tags_work:"x" uuid:"7252b3b2-16c0-4a96-8364-4f6c3f5bddc6"]
 new [description:"get the first query working" end:"1689769940" entry:"1689590482" modified:"1689769940" project:"cam_db" status:"completed" tags:"work" tags_work:"x" uuid:"7252b3b2-16c0-4a96-8364-4f6c3f5bddc6"]
 ---
+time 1689780310
+new [description:"inventory build failed" entry:"1689780310" modified:"1689780310" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"d0b2865d-9579-427f-b349-f8536191730f"]
+---
+time 1689780321
+new [description:"inventory sql compilation error" entry:"1689780321" modified:"1689780321" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"603b1c14-11af-4ccf-98e8-fadf48ba48a6"]
+---
+time 1689780325
+old [description:"inventory build failed" entry:"1689780310" modified:"1689780310" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"d0b2865d-9579-427f-b349-f8536191730f"]
+new [description:"inventory build failed" end:"1689780325" entry:"1689780310" modified:"1689780325" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"d0b2865d-9579-427f-b349-f8536191730f"]
+---
+time 1689838141
+old [description:"inventory sql compilation error" entry:"1689780321" modified:"1689780321" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"603b1c14-11af-4ccf-98e8-fadf48ba48a6"]
+new [description:"inventory sql compilation error" end:"1689838141" entry:"1689780321" modified:"1689838141" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"603b1c14-11af-4ccf-98e8-fadf48ba48a6"]
+---
