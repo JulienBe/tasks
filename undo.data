@@ -516,3 +516,7 @@ time 1689854680
 old [description:"raccrocher baches" entry:"1689497063" modified:"1689497063" project:"suivi_travaux" status:"pending" tags:"perso" tags_perso:"x" uuid:"d3069352-506e-4cce-95d0-df40e968bfa9"]
 new [description:"raccrocher baches" end:"1689854680" entry:"1689497063" modified:"1689854680" project:"suivi_travaux" status:"completed" tags:"perso" tags_perso:"x" uuid:"d3069352-506e-4cce-95d0-df40e968bfa9"]
 ---
+time 1689854703
+old [description:"vider piscine" entry:"1689496669" modified:"1689496669" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"66c4c067-19d6-474d-87e9-3e6d7c81eaf3"]
+new [description:"vider piscine" end:"1689854703" entry:"1689496669" modified:"1689854703" project:"piscine" status:"completed" tags:"home" tags_home:"x" uuid:"66c4c067-19d6-474d-87e9-3e6d7c81eaf3"]
+---
