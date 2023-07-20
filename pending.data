@@ -1,4 +1,3 @@
-[description:"create Jira issue to modify mocks" end:"1689854875" entry:"1688121800" modified:"1689854875" project:"analysis" status:"completed" tags:"work" tags_work:"x" uuid:"761d833e-8513-4013-ae88-421fc105ebd6"]
 [description:"Static version of network mocks" entry:"1688121831" modified:"1688121831" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409"]
 [description:"Query version of network mocks" entry:"1688121842" modified:"1688121842" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"4f308b85-bc6f-4783-8c93-03b9d84dc005"]
 [description:"React to filters version of network mocks" entry:"1688121849" modified:"1688121849" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"6e179514-9208-42e2-8a6a-6bae2a939665"]
