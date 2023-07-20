@@ -508,3 +508,11 @@ time 1689854669
 old [description:"Act on a list of properties ?" entry:"1688626542" modified:"1688626542" project:"tagging" status:"pending" tags:"home" tags_home:"x" uuid:"6efdbd7b-15eb-41e9-9bfb-f557021ce864"]
 new [description:"Act on a list of properties ?" end:"1689854669" entry:"1688626542" modified:"1689854669" project:"tagging" status:"completed" tags:"home" tags_home:"x" uuid:"6efdbd7b-15eb-41e9-9bfb-f557021ce864"]
 ---
+time 1689854680
+old [description:"add points" entry:"1689497055" modified:"1689497055" project:"suivi_travaux" status:"pending" tags:"perso" tags_perso:"x" uuid:"2f23a6d0-c6b7-42b3-941d-620a96761bdf"]
+new [description:"add points" end:"1689854680" entry:"1689497055" modified:"1689854680" project:"suivi_travaux" status:"completed" tags:"perso" tags_perso:"x" uuid:"2f23a6d0-c6b7-42b3-941d-620a96761bdf"]
+---
+time 1689854680
+old [description:"raccrocher baches" entry:"1689497063" modified:"1689497063" project:"suivi_travaux" status:"pending" tags:"perso" tags_perso:"x" uuid:"d3069352-506e-4cce-95d0-df40e968bfa9"]
+new [description:"raccrocher baches" end:"1689854680" entry:"1689497063" modified:"1689854680" project:"suivi_travaux" status:"completed" tags:"perso" tags_perso:"x" uuid:"d3069352-506e-4cce-95d0-df40e968bfa9"]
+---

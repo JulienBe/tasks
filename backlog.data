@@ -149,3 +149,5 @@
 {"description":"Create feature flag","end":"20230720T120426Z","entry":"20230706T065527Z","modified":"20230720T120429Z","project":"tagging","status":"completed","uuid":"5045d9d7-0850-4653-9803-3f4c94e49903","tags":["home"]}
 {"description":"Create a list of properties ?","end":"20230720T120429Z","entry":"20230706T065534Z","modified":"20230720T120429Z","project":"tagging","status":"completed","uuid":"5e9b0b13-538b-433d-bdd7-e27aec0cbfb6","tags":["home"]}
 {"description":"Act on a list of properties ?","end":"20230720T120429Z","entry":"20230706T065542Z","modified":"20230720T120429Z","project":"tagging","status":"completed","uuid":"6efdbd7b-15eb-41e9-9bfb-f557021ce864","tags":["home"]}
+{"description":"add points","end":"20230720T120440Z","entry":"20230716T084415Z","modified":"20230720T120440Z","project":"suivi_travaux","status":"completed","uuid":"2f23a6d0-c6b7-42b3-941d-620a96761bdf","tags":["perso"]}
+{"description":"raccrocher baches","end":"20230720T120440Z","entry":"20230716T084423Z","modified":"20230720T120440Z","project":"suivi_travaux","status":"completed","uuid":"d3069352-506e-4cce-95d0-df40e968bfa9","tags":["perso"]}
