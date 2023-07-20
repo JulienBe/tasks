@@ -146,3 +146,6 @@
 {"description":"faire toit","end":"20230720T120129Z","entry":"20230716T083538Z","modified":"20230720T120341Z","project":"bac_a_sable","status":"completed","uuid":"74be27a9-b651-4694-a107-99e1e030c25b","tags":["home"]}
 {"description":"faire toit bien","end":"20230720T120341Z","entry":"20230716T083545Z","modified":"20230720T120343Z","project":"bac_a_sable","status":"completed","uuid":"ee7ef500-7bce-4d50-babc-0d4ce285a24f","tags":["home"]}
 {"description":"Understand wtf to do","end":"20230720T120415Z","entry":"20230706T065500Z","modified":"20230720T120415Z","project":"tagging","status":"completed","uuid":"90cc74af-0539-43c8-9d89-137f5b350879","tags":["home"]}
+{"description":"Create feature flag","end":"20230720T120426Z","entry":"20230706T065527Z","modified":"20230720T120429Z","project":"tagging","status":"completed","uuid":"5045d9d7-0850-4653-9803-3f4c94e49903","tags":["home"]}
+{"description":"Create a list of properties ?","end":"20230720T120429Z","entry":"20230706T065534Z","modified":"20230720T120429Z","project":"tagging","status":"completed","uuid":"5e9b0b13-538b-433d-bdd7-e27aec0cbfb6","tags":["home"]}
+{"description":"Act on a list of properties ?","end":"20230720T120429Z","entry":"20230706T065542Z","modified":"20230720T120429Z","project":"tagging","status":"completed","uuid":"6efdbd7b-15eb-41e9-9bfb-f557021ce864","tags":["home"]}
