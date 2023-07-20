@@ -142,3 +142,6 @@
 {"description":"inventory build failed","end":"20230719T152525Z","entry":"20230719T152510Z","modified":"20230719T152525Z","project":"bugs","status":"completed","uuid":"d0b2865d-9579-427f-b349-f8536191730f","tags":["work"]}
 {"description":"inventory sql compilation error","end":"20230720T072901Z","entry":"20230719T152521Z","modified":"20230720T072901Z","project":"bugs","status":"completed","uuid":"603b1c14-11af-4ccf-98e8-fadf48ba48a6","tags":["work"]}
 {"description":"Find epic to create Jira issue to modify mocks","end":"20230720T114829Z","entry":"20230630T104310Z","modified":"20230720T114829Z","project":"analysis","status":"completed","uuid":"0c3777cd-f7d3-41eb-84e9-e18607748f0a","tags":["work"]}
+{"description":"faire armature","end":"20230720T120117Z","entry":"20230716T083433Z","modified":"20230720T120124Z","project":"bac_a_sable","status":"completed","uuid":"69dd74be-9383-4ca0-9f6c-1db4441dd6de","tags":["home"]}
+{"description":"faire toit","end":"20230720T120129Z","entry":"20230716T083538Z","modified":"20230720T120341Z","project":"bac_a_sable","status":"completed","uuid":"74be27a9-b651-4694-a107-99e1e030c25b","tags":["home"]}
+{"description":"faire toit bien","end":"20230720T120341Z","entry":"20230716T083545Z","modified":"20230720T120343Z","project":"bac_a_sable","status":"completed","uuid":"ee7ef500-7bce-4d50-babc-0d4ce285a24f","tags":["home"]}

@@ -480,3 +480,15 @@ time 1689853709
 old [description:"Find epic to create Jira issue to modify mocks" entry:"1688121790" modified:"1688121790" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"0c3777cd-f7d3-41eb-84e9-e18607748f0a"]
 new [description:"Find epic to create Jira issue to modify mocks" end:"1689853709" entry:"1688121790" modified:"1689853709" project:"analysis" status:"completed" tags:"work" tags_work:"x" uuid:"0c3777cd-f7d3-41eb-84e9-e18607748f0a"]
 ---
+time 1689854484
+old [description:"faire armature" entry:"1689496473" modified:"1689496473" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"69dd74be-9383-4ca0-9f6c-1db4441dd6de"]
+new [description:"faire armature" end:"1689854477" entry:"1689496473" modified:"1689854484" project:"bac_a_sable" status:"completed" tags:"home" tags_home:"x" uuid:"69dd74be-9383-4ca0-9f6c-1db4441dd6de"]
+---
+time 1689854621
+old [description:"faire toit" entry:"1689496538" modified:"1689496538" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"74be27a9-b651-4694-a107-99e1e030c25b"]
+new [description:"faire toit" end:"1689854489" entry:"1689496538" modified:"1689854621" project:"bac_a_sable" status:"completed" tags:"home" tags_home:"x" uuid:"74be27a9-b651-4694-a107-99e1e030c25b"]
+---
+time 1689854623
+old [description:"faire toit bien" entry:"1689496545" modified:"1689496545" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"ee7ef500-7bce-4d50-babc-0d4ce285a24f"]
+new [description:"faire toit bien" end:"1689854621" entry:"1689496545" modified:"1689854623" project:"bac_a_sable" status:"completed" tags:"home" tags_home:"x" uuid:"ee7ef500-7bce-4d50-babc-0d4ce285a24f"]
+---
