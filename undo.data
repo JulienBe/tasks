@@ -532,3 +532,6 @@ time 1689854883
 old [description:"Static version of network mocks" entry:"1688121831" modified:"1688121831" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409"]
 new [description:"Static version of network mocks" end:"1689854883" entry:"1688121831" modified:"1689854883" project:"analysis" status:"completed" tags:"work" tags_work:"x" uuid:"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409"]
 ---
+time 1689875869
+new [description:"débarasser" entry:"1689875869" modified:"1689875869" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1"]
+---

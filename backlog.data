@@ -155,3 +155,4 @@
 {"description":"get a meaningful query","end":"20230720T120722Z","entry":"20230717T104133Z","modified":"20230720T120722Z","project":"cam_db","status":"completed","uuid":"807267d5-3fe6-4511-b37a-3f60aafb0949","tags":["work"]}
 {"description":"create Jira issue to modify mocks","end":"20230720T120755Z","entry":"20230630T104320Z","modified":"20230720T120755Z","project":"analysis","status":"completed","uuid":"761d833e-8513-4013-ae88-421fc105ebd6","tags":["work"]}
 {"description":"Static version of network mocks","end":"20230720T120803Z","entry":"20230630T104351Z","modified":"20230720T120803Z","project":"analysis","status":"completed","uuid":"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409","tags":["work"]}
+{"description":"débarasser","entry":"20230720T175749Z","modified":"20230720T175749Z","project":"chambre","status":"pending","uuid":"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1","tags":["home"]}
