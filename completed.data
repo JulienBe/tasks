@@ -1,3 +1,4 @@
+[description:"Find epic to create Jira issue to modify mocks" end:"1689853709" entry:"1688121790" modified:"1689853709" project:"analysis" status:"completed" tags:"work" tags_work:"x" uuid:"0c3777cd-f7d3-41eb-84e9-e18607748f0a"]
 [description:"inventory sql compilation error" end:"1689838141" entry:"1689780321" modified:"1689838141" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"603b1c14-11af-4ccf-98e8-fadf48ba48a6"]
 [description:"inventory build failed" end:"1689780325" entry:"1689780310" modified:"1689780325" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"d0b2865d-9579-427f-b349-f8536191730f"]
 [description:"get the first query working" end:"1689769940" entry:"1689590482" modified:"1689769940" project:"cam_db" status:"completed" tags:"work" tags_work:"x" uuid:"7252b3b2-16c0-4a96-8364-4f6c3f5bddc6"]
