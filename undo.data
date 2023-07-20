@@ -476,3 +476,7 @@ time 1689838141
 old [description:"inventory sql compilation error" entry:"1689780321" modified:"1689780321" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"603b1c14-11af-4ccf-98e8-fadf48ba48a6"]
 new [description:"inventory sql compilation error" end:"1689838141" entry:"1689780321" modified:"1689838141" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"603b1c14-11af-4ccf-98e8-fadf48ba48a6"]
 ---
+time 1689853709
+old [description:"Find epic to create Jira issue to modify mocks" entry:"1688121790" modified:"1688121790" project:"analysis" status:"pending" tags:"work" tags_work:"x" uuid:"0c3777cd-f7d3-41eb-84e9-e18607748f0a"]
+new [description:"Find epic to create Jira issue to modify mocks" end:"1689853709" entry:"1688121790" modified:"1689853709" project:"analysis" status:"completed" tags:"work" tags_work:"x" uuid:"0c3777cd-f7d3-41eb-84e9-e18607748f0a"]
+---
