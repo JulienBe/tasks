@@ -23,7 +23,7 @@
 [description:"faire fonctionner pompe" entry:"1689496742" modified:"1689496742" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"9fff9b87-2080-49f0-a6ef-b5f8d6ea12af"]
 [description:"mettre chlore" entry:"1689496764" modified:"1689496764" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"ca2cecdd-fda3-4be6-b465-44abe066cc89"]
 [description:"trouver bache" entry:"1689496768" modified:"1689496768" project:"piscine" status:"pending" tags:"home" tags_home:"x" uuid:"4562c21c-af74-4bc1-a170-bfb8f8030471"]
-[description:"add shadows" entry:"1689496858" modified:"1689496858" project:"med-fan-wipeout" status:"pending" tags:"perso" tags_perso:"x" uuid:"02e5b665-64b8-4150-b52e-2d26bb64b369"]
+[description:"add shadows" entry:"1689496858" modified:"1689881779" project:"med-fan-wipeout" start:"1689881779" status:"pending" tags:"perso" tags_perso:"x" uuid:"02e5b665-64b8-4150-b52e-2d26bb64b369"]
 [description:"add points" entry:"1689496946" modified:"1689496946" project:"vacances_map" status:"pending" tags:"perso" tags_perso:"x" uuid:"68cfaea8-a676-4f03-9db4-93d969a993b6"]
 [description:"potager" entry:"1689497193" modified:"1689497193" project:"cleanup" status:"pending" tags:"home" tags_home:"x" uuid:"f99abf85-f9cd-4f23-937f-22a6c24d5ee6"]
 [description:"tri wing" entry:"1689497222" modified:"1689497222" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]

@@ -538,3 +538,7 @@ new [description:"débarasser" entry:"1689875869" modified:"1689875869" project:
 time 1689881715
 new [description:"dithering" entry:"1689881715" modified:"1689881715" project:"med-fan-wipeout" status:"pending" tags:"perso" tags_perso:"x" uuid:"92be987c-d3fe-40f8-a5e1-df8f81ebc569"]
 ---
+time 1689881779
+old [description:"add shadows" entry:"1689496858" modified:"1689496858" project:"med-fan-wipeout" status:"pending" tags:"perso" tags_perso:"x" uuid:"02e5b665-64b8-4150-b52e-2d26bb64b369"]
+new [description:"add shadows" entry:"1689496858" modified:"1689881779" project:"med-fan-wipeout" start:"1689881779" status:"pending" tags:"perso" tags_perso:"x" uuid:"02e5b665-64b8-4150-b52e-2d26bb64b369"]
+---

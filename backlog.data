@@ -157,3 +157,4 @@
 {"description":"Static version of network mocks","end":"20230720T120803Z","entry":"20230630T104351Z","modified":"20230720T120803Z","project":"analysis","status":"completed","uuid":"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409","tags":["work"]}
 {"description":"débarasser","entry":"20230720T175749Z","modified":"20230720T175749Z","project":"chambre","status":"pending","uuid":"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1","tags":["home"]}
 {"description":"dithering","entry":"20230720T193515Z","modified":"20230720T193515Z","project":"med-fan-wipeout","status":"pending","uuid":"92be987c-d3fe-40f8-a5e1-df8f81ebc569","tags":["perso"]}
+{"description":"add shadows","entry":"20230716T084058Z","modified":"20230720T193619Z","project":"med-fan-wipeout","start":"20230720T193619Z","status":"pending","uuid":"02e5b665-64b8-4150-b52e-2d26bb64b369","tags":["perso"]}
