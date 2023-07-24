@@ -563,3 +563,7 @@ new [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU0
 time 1690189763
 new [description:"Asset inventory insights" entry:"1690189763" modified:"1690189763" project:"ditch-TS" status:"pending" tags:"work" tags_work:"x" uuid:"d2590146-93fa-4db0-9694-890bbe2f596d"]
 ---
+time 1690189944
+old [description:"Asset inventory insights" entry:"1690189763" modified:"1690189763" project:"ditch-TS" status:"pending" tags:"work" tags_work:"x" uuid:"d2590146-93fa-4db0-9694-890bbe2f596d"]
+new [description:"Asset inventory insights" entry:"1690189763" modified:"1690189944" project:"ditch-TS" start:"1690189944" status:"pending" tags:"work" tags_work:"x" uuid:"d2590146-93fa-4db0-9694-890bbe2f596d"]
+---
