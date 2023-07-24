@@ -42,3 +42,4 @@
 [description:"dithering" entry:"1689881715" modified:"1689881715" project:"med-fan-wipeout" status:"pending" tags:"perso" tags_perso:"x" uuid:"92be987c-d3fe-40f8-a5e1-df8f81ebc569"]
 [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" entry:"1690189448" modified:"1690189459" project:"bug" start:"1690189459" status:"pending" tags:"work" tags_work:"x" uuid:"bac49876-326c-49d3-9646-5689fb367cda"]
 [description:"Asset inventory insights" entry:"1690189763" modified:"1690189944" project:"ditch-TS" start:"1690189944" status:"pending" tags:"work" tags_work:"x" uuid:"d2590146-93fa-4db0-9694-890bbe2f596d"]
+[description:"Find the recording" entry:"1690201732" modified:"1690201732" project:"AI_Challenge" status:"pending" tags:"work" tags_work:"x" uuid:"e68d54af-e30e-46dd-8e64-f856754aad17"]
