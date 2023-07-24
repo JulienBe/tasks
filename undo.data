@@ -549,3 +549,7 @@ new [description:"receive dygma" entry:"1688561463" modified:"1689881790" projec
 time 1690189329
 new [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" entry:"1690189329" modified:"1690189329" project:"bug" status:"pending" tags:"work" tags_work:"x" uuid:"3c64723f-cb59-4795-a054-a53cd1d764c1"]
 ---
+time 1690189376
+old [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" entry:"1690189329" modified:"1690189329" project:"bug" status:"pending" tags:"work" tags_work:"x" uuid:"3c64723f-cb59-4795-a054-a53cd1d764c1"]
+new [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" end:"1690189376" entry:"1690189329" modified:"1690189376" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"3c64723f-cb59-4795-a054-a53cd1d764c1"]
+---
