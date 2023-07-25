@@ -580,3 +580,7 @@ new [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU0
 time 1690273589
 new [description:"Column Sources empty" entry:"1690273589" modified:"1690273589" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"c961dd39-07ff-4dbb-ae18-c5a90564f3c0"]
 ---
+time 1690273594
+old [description:"Column Sources empty" entry:"1690273589" modified:"1690273589" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"c961dd39-07ff-4dbb-ae18-c5a90564f3c0"]
+new [description:"Column Sources empty" entry:"1690273589" modified:"1690273594" project:"bugs" start:"1690273594" status:"pending" tags:"work" tags_work:"x" uuid:"c961dd39-07ff-4dbb-ae18-c5a90564f3c0"]
+---
