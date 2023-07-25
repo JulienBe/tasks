@@ -573,3 +573,7 @@ new [description:"Find the recording" entry:"1690201732" modified:"1690201732" p
 time 1690201737
 new [description:"Get access" entry:"1690201737" modified:"1690201737" project:"AI_Challenge" status:"pending" tags:"work" tags_work:"x" uuid:"a9e5da63-1a2b-4c3e-8a52-d68fc1865889"]
 ---
+time 1690273573
+old [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" entry:"1690189448" modified:"1690189459" project:"bug" start:"1690189459" status:"pending" tags:"work" tags_work:"x" uuid:"bac49876-326c-49d3-9646-5689fb367cda"]
+new [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" end:"1690273573" entry:"1690189448" modified:"1690273573" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"bac49876-326c-49d3-9646-5689fb367cda"]
+---

@@ -167,3 +167,4 @@
 {"description":"Asset inventory insights","entry":"20230724T090923Z","modified":"20230724T091224Z","project":"ditch-TS","start":"20230724T091224Z","status":"pending","uuid":"d2590146-93fa-4db0-9694-890bbe2f596d","tags":["work"]}
 {"description":"Find the recording","entry":"20230724T122852Z","modified":"20230724T122852Z","project":"AI_Challenge","status":"pending","uuid":"e68d54af-e30e-46dd-8e64-f856754aad17","tags":["work"]}
 {"description":"Get access","entry":"20230724T122857Z","modified":"20230724T122857Z","project":"AI_Challenge","status":"pending","uuid":"a9e5da63-1a2b-4c3e-8a52-d68fc1865889","tags":["work"]}
+{"description":"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949","end":"20230725T082613Z","entry":"20230724T090408Z","modified":"20230725T082613Z","project":"bug","status":"completed","uuid":"bac49876-326c-49d3-9646-5689fb367cda","tags":["work"]}
