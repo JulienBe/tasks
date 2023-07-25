@@ -1,3 +1,4 @@
+[description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" end:"1690273573" entry:"1690189448" modified:"1690273573" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"bac49876-326c-49d3-9646-5689fb367cda"]
 [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" end:"1690189376" entry:"1690189329" modified:"1690189376" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"3c64723f-cb59-4795-a054-a53cd1d764c1"]
 [description:"Static version of network mocks" end:"1689854883" entry:"1688121831" modified:"1689854883" project:"analysis" status:"completed" tags:"work" tags_work:"x" uuid:"7a7c8f42-f5bc-4ffb-85e6-cb0a9eb7d409"]
 [description:"create Jira issue to modify mocks" end:"1689854875" entry:"1688121800" modified:"1689854875" project:"analysis" status:"completed" tags:"work" tags_work:"x" uuid:"761d833e-8513-4013-ae88-421fc105ebd6"]

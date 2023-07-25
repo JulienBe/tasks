@@ -40,7 +40,7 @@
 [description:"hashnode" entry:"1689769873" modified:"1689769873" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]
 [description:"débarasser" entry:"1689875869" modified:"1689875869" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1"]
 [description:"dithering" entry:"1689881715" modified:"1689881715" project:"med-fan-wipeout" status:"pending" tags:"perso" tags_perso:"x" uuid:"92be987c-d3fe-40f8-a5e1-df8f81ebc569"]
-[description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" end:"1690273573" entry:"1690189448" modified:"1690273573" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"bac49876-326c-49d3-9646-5689fb367cda"]
 [description:"Asset inventory insights" entry:"1690189763" modified:"1690189944" project:"ditch-TS" start:"1690189944" status:"pending" tags:"work" tags_work:"x" uuid:"d2590146-93fa-4db0-9694-890bbe2f596d"]
 [description:"Find the recording" entry:"1690201732" modified:"1690201732" project:"AI_Challenge" status:"pending" tags:"work" tags_work:"x" uuid:"e68d54af-e30e-46dd-8e64-f856754aad17"]
 [description:"Get access" entry:"1690201737" modified:"1690201737" project:"AI_Challenge" status:"pending" tags:"work" tags_work:"x" uuid:"a9e5da63-1a2b-4c3e-8a52-d68fc1865889"]
+[description:"Column Sources empty" entry:"1690273589" modified:"1690273589" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"c961dd39-07ff-4dbb-ae18-c5a90564f3c0"]

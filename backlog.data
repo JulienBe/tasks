@@ -168,3 +168,4 @@
 {"description":"Find the recording","entry":"20230724T122852Z","modified":"20230724T122852Z","project":"AI_Challenge","status":"pending","uuid":"e68d54af-e30e-46dd-8e64-f856754aad17","tags":["work"]}
 {"description":"Get access","entry":"20230724T122857Z","modified":"20230724T122857Z","project":"AI_Challenge","status":"pending","uuid":"a9e5da63-1a2b-4c3e-8a52-d68fc1865889","tags":["work"]}
 {"description":"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949","end":"20230725T082613Z","entry":"20230724T090408Z","modified":"20230725T082613Z","project":"bug","status":"completed","uuid":"bac49876-326c-49d3-9646-5689fb367cda","tags":["work"]}
+{"description":"Column Sources empty","entry":"20230725T082629Z","modified":"20230725T082629Z","project":"bugs","status":"pending","uuid":"c961dd39-07ff-4dbb-ae18-c5a90564f3c0","tags":["work"]}
