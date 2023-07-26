@@ -595,3 +595,7 @@ new [description:"Column Sources empty" end:"1690354211" entry:"1690273589" modi
 time 1690354235
 new [description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" entry:"1690354235" modified:"1690354235" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
 ---
+time 1690354243
+old [description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" entry:"1690354235" modified:"1690354235" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
+new [description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" entry:"1690354235" modified:"1690354243" project:"bugs" start:"1690354243" status:"pending" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
+---
