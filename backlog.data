@@ -172,3 +172,4 @@
 {"description":"Column Sources empty","entry":"20230725T082629Z","modified":"20230725T082634Z","project":"bugs","start":"20230725T082634Z","status":"pending","uuid":"c961dd39-07ff-4dbb-ae18-c5a90564f3c0","tags":["work"]}
 {"description":"Asset inventory insights","end":"20230726T065011Z","entry":"20230724T090923Z","modified":"20230726T065011Z","project":"ditch-TS","status":"completed","uuid":"d2590146-93fa-4db0-9694-890bbe2f596d","tags":["work"]}
 {"description":"Column Sources empty","end":"20230726T065011Z","entry":"20230725T082629Z","modified":"20230726T065011Z","project":"bugs","status":"completed","uuid":"c961dd39-07ff-4dbb-ae18-c5a90564f3c0","tags":["work"]}
+{"description":"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data","entry":"20230726T065035Z","modified":"20230726T065035Z","project":"bugs","status":"pending","uuid":"b8170d4e-3c42-42cc-9e28-11e1a452a310","tags":["work"]}
