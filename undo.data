@@ -606,3 +606,6 @@ time 1690398079
 old [description:"hashnode" entry:"1689769873" modified:"1689769873" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]
 new [description:"hashnode" entry:"1689769873" modified:"1690398079" project:"setup" start:"1690398079" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]
 ---
+time 1690398103
+new [description:"Switch emulators" entry:"1690398103" modified:"1690398103" project:"gaming" status:"pending" tags:"perso" tags_perso:"x" uuid:"d3d378b8-85dc-4d02-8aa2-8a0495ab0b92"]
+---
