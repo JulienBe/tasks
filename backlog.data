@@ -174,3 +174,4 @@
 {"description":"Column Sources empty","end":"20230726T065011Z","entry":"20230725T082629Z","modified":"20230726T065011Z","project":"bugs","status":"completed","uuid":"c961dd39-07ff-4dbb-ae18-c5a90564f3c0","tags":["work"]}
 {"description":"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data","entry":"20230726T065035Z","modified":"20230726T065035Z","project":"bugs","status":"pending","uuid":"b8170d4e-3c42-42cc-9e28-11e1a452a310","tags":["work"]}
 {"description":"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data","entry":"20230726T065035Z","modified":"20230726T065043Z","project":"bugs","start":"20230726T065043Z","status":"pending","uuid":"b8170d4e-3c42-42cc-9e28-11e1a452a310","tags":["work"]}
+{"description":"Create class ticket","entry":"20230726T071321Z","modified":"20230726T071321Z","project":"bugs","status":"pending","uuid":"ef8bd198-8f73-4b59-9b22-dd6319e66cb2","tags":["work"]}

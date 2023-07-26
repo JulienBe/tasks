@@ -43,3 +43,4 @@
 [description:"Find the recording" entry:"1690201732" modified:"1690201732" project:"AI_Challenge" status:"pending" tags:"work" tags_work:"x" uuid:"e68d54af-e30e-46dd-8e64-f856754aad17"]
 [description:"Get access" entry:"1690201737" modified:"1690201737" project:"AI_Challenge" status:"pending" tags:"work" tags_work:"x" uuid:"a9e5da63-1a2b-4c3e-8a52-d68fc1865889"]
 [description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" entry:"1690354235" modified:"1690354243" project:"bugs" start:"1690354243" status:"pending" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
+[description:"Create class ticket" entry:"1690355601" modified:"1690355601" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"ef8bd198-8f73-4b59-9b22-dd6319e66cb2"]
