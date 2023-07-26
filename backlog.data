@@ -175,3 +175,4 @@
 {"description":"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data","entry":"20230726T065035Z","modified":"20230726T065035Z","project":"bugs","status":"pending","uuid":"b8170d4e-3c42-42cc-9e28-11e1a452a310","tags":["work"]}
 {"description":"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data","entry":"20230726T065035Z","modified":"20230726T065043Z","project":"bugs","start":"20230726T065043Z","status":"pending","uuid":"b8170d4e-3c42-42cc-9e28-11e1a452a310","tags":["work"]}
 {"description":"Create class ticket","entry":"20230726T071321Z","modified":"20230726T071321Z","project":"bugs","status":"pending","uuid":"ef8bd198-8f73-4b59-9b22-dd6319e66cb2","tags":["work"]}
+{"description":"hashnode","entry":"20230719T123113Z","modified":"20230726T190119Z","project":"setup","start":"20230726T190119Z","status":"pending","uuid":"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d","tags":["perso"]}

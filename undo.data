@@ -602,3 +602,7 @@ new [description:"Shows ‘type’ column instead of ‘Class’ and also it sho
 time 1690355601
 new [description:"Create class ticket" entry:"1690355601" modified:"1690355601" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"ef8bd198-8f73-4b59-9b22-dd6319e66cb2"]
 ---
+time 1690398079
+old [description:"hashnode" entry:"1689769873" modified:"1689769873" project:"setup" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]
+new [description:"hashnode" entry:"1689769873" modified:"1690398079" project:"setup" start:"1690398079" status:"pending" tags:"perso" tags_perso:"x" uuid:"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d"]
+---
