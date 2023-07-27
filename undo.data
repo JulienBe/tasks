@@ -620,3 +620,6 @@ new [description:"tri wing" entry:"1689497222" modified:"1690451051" project:"ga
 time 1690451063
 new [description:"Read email" entry:"1690451063" modified:"1690451063" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"c2e54740-ca83-4705-b973-b6e094d26d38"]
 ---
+time 1690451139
+new [description:"Update OAS with agreed upon fields" entry:"1690451139" modified:"1690451139" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"cccc3bad-f1ff-48cc-84ed-691ce5a335da"]
+---
