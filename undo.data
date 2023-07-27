@@ -617,3 +617,6 @@ time 1690451051
 old [description:"tri wing" entry:"1689497222" modified:"1689497222" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
 new [description:"tri wing" entry:"1689497222" modified:"1690451051" project:"gameboy" start:"1690451051" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
 ---
+time 1690451063
+new [description:"Read email" entry:"1690451063" modified:"1690451063" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"c2e54740-ca83-4705-b973-b6e094d26d38"]
+---

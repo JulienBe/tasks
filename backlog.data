@@ -179,3 +179,4 @@
 {"description":"Switch emulators","entry":"20230726T190143Z","modified":"20230726T190143Z","project":"gaming","status":"pending","uuid":"d3d378b8-85dc-4d02-8aa2-8a0495ab0b92","tags":["perso"]}
 {"description":"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data","end":"20230727T094401Z","entry":"20230726T065035Z","modified":"20230727T094401Z","project":"bugs","status":"completed","uuid":"b8170d4e-3c42-42cc-9e28-11e1a452a310","tags":["work"]}
 {"description":"tri wing","entry":"20230716T084702Z","modified":"20230727T094411Z","project":"gameboy","start":"20230727T094411Z","status":"pending","uuid":"d551b0d2-c7f2-4649-8199-d109334cd7bd","tags":["perso"]}
+{"description":"Read email","entry":"20230727T094423Z","modified":"20230727T094423Z","project":"psy","status":"pending","uuid":"c2e54740-ca83-4705-b973-b6e094d26d38","tags":["perso"]}
