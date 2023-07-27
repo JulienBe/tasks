@@ -613,3 +613,7 @@ time 1690451041
 old [description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" entry:"1690354235" modified:"1690354243" project:"bugs" start:"1690354243" status:"pending" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
 new [description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" end:"1690451041" entry:"1690354235" modified:"1690451041" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
 ---
+time 1690451051
+old [description:"tri wing" entry:"1689497222" modified:"1689497222" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
+new [description:"tri wing" entry:"1689497222" modified:"1690451051" project:"gameboy" start:"1690451051" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
+---

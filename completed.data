@@ -1,3 +1,4 @@
+[description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" end:"1690451041" entry:"1690354235" modified:"1690451041" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
 [description:"Asset inventory insights" end:"1690354211" entry:"1690189763" modified:"1690354211" project:"ditch-TS" status:"completed" tags:"work" tags_work:"x" uuid:"d2590146-93fa-4db0-9694-890bbe2f596d"]
 [description:"Column Sources empty" end:"1690354211" entry:"1690273589" modified:"1690354211" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"c961dd39-07ff-4dbb-ae18-c5a90564f3c0"]
 [description:"Fix konsole build https:\/\/tenable.slack.com\/archives\/C7WU005PH\/p1690185346899949" end:"1690273573" entry:"1690189448" modified:"1690273573" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"bac49876-326c-49d3-9646-5689fb367cda"]
