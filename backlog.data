@@ -181,3 +181,4 @@
 {"description":"tri wing","entry":"20230716T084702Z","modified":"20230727T094411Z","project":"gameboy","start":"20230727T094411Z","status":"pending","uuid":"d551b0d2-c7f2-4649-8199-d109334cd7bd","tags":["perso"]}
 {"description":"Read email","entry":"20230727T094423Z","modified":"20230727T094423Z","project":"psy","status":"pending","uuid":"c2e54740-ca83-4705-b973-b6e094d26d38","tags":["perso"]}
 {"description":"Update OAS with agreed upon fields","entry":"20230727T094539Z","modified":"20230727T094539Z","project":"cam_api","status":"pending","uuid":"cccc3bad-f1ff-48cc-84ed-691ce5a335da","tags":["work"]}
+{"description":"Check \/ Think about other fields","entry":"20230727T094552Z","modified":"20230727T094552Z","project":"cam_api","status":"pending","uuid":"ecdf9e5f-3efd-49e7-bd0d-3e46a7d207e5","tags":["work"]}
