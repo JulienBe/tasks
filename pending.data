@@ -47,3 +47,4 @@
 [description:"Read email" entry:"1690451063" modified:"1690451063" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"c2e54740-ca83-4705-b973-b6e094d26d38"]
 [description:"Update OAS with agreed upon fields" entry:"1690451139" modified:"1690451139" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"cccc3bad-f1ff-48cc-84ed-691ce5a335da"]
 [description:"Check \/ Think about other fields" entry:"1690451152" modified:"1690451152" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"ecdf9e5f-3efd-49e7-bd0d-3e46a7d207e5"]
+[description:"Fix build" entry:"1690470846" modified:"1690470846" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"88a46d7e-ae59-40ae-9279-3f4af1025d0a"]

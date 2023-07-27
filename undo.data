@@ -626,3 +626,6 @@ new [description:"Update OAS with agreed upon fields" entry:"1690451139" modifie
 time 1690451152
 new [description:"Check \/ Think about other fields" entry:"1690451152" modified:"1690451152" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"ecdf9e5f-3efd-49e7-bd0d-3e46a7d207e5"]
 ---
+time 1690470846
+new [description:"Fix build" entry:"1690470846" modified:"1690470846" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"88a46d7e-ae59-40ae-9279-3f4af1025d0a"]
+---
