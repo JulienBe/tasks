@@ -629,3 +629,7 @@ new [description:"Check \/ Think about other fields" entry:"1690451152" modified
 time 1690470846
 new [description:"Fix build" entry:"1690470846" modified:"1690470846" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"88a46d7e-ae59-40ae-9279-3f4af1025d0a"]
 ---
+time 1690470851
+old [description:"Fix build" entry:"1690470846" modified:"1690470846" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"88a46d7e-ae59-40ae-9279-3f4af1025d0a"]
+new [description:"Fix build" entry:"1690470846" modified:"1690470851" project:"cam_api" start:"1690470851" status:"pending" tags:"work" tags_work:"x" uuid:"88a46d7e-ae59-40ae-9279-3f4af1025d0a"]
+---
