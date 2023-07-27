@@ -177,3 +177,4 @@
 {"description":"Create class ticket","entry":"20230726T071321Z","modified":"20230726T071321Z","project":"bugs","status":"pending","uuid":"ef8bd198-8f73-4b59-9b22-dd6319e66cb2","tags":["work"]}
 {"description":"hashnode","entry":"20230719T123113Z","modified":"20230726T190119Z","project":"setup","start":"20230726T190119Z","status":"pending","uuid":"87de0b98-1ab1-4dbe-bad3-c20b89f31f9d","tags":["perso"]}
 {"description":"Switch emulators","entry":"20230726T190143Z","modified":"20230726T190143Z","project":"gaming","status":"pending","uuid":"d3d378b8-85dc-4d02-8aa2-8a0495ab0b92","tags":["perso"]}
+{"description":"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data","end":"20230727T094401Z","entry":"20230726T065035Z","modified":"20230727T094401Z","project":"bugs","status":"completed","uuid":"b8170d4e-3c42-42cc-9e28-11e1a452a310","tags":["work"]}
