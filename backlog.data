@@ -184,3 +184,4 @@
 {"description":"Check \/ Think about other fields","entry":"20230727T094552Z","modified":"20230727T094552Z","project":"cam_api","status":"pending","uuid":"ecdf9e5f-3efd-49e7-bd0d-3e46a7d207e5","tags":["work"]}
 {"description":"Fix build","entry":"20230727T151406Z","modified":"20230727T151406Z","project":"cam_api","status":"pending","uuid":"88a46d7e-ae59-40ae-9279-3f4af1025d0a","tags":["work"]}
 {"description":"Fix build","entry":"20230727T151406Z","modified":"20230727T151411Z","project":"cam_api","start":"20230727T151411Z","status":"pending","uuid":"88a46d7e-ae59-40ae-9279-3f4af1025d0a","tags":["work"]}
+{"description":"Fix build","end":"20230728T170046Z","entry":"20230727T151406Z","modified":"20230728T170046Z","project":"cam_api","status":"completed","uuid":"88a46d7e-ae59-40ae-9279-3f4af1025d0a","tags":["work"]}
