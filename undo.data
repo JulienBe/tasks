@@ -649,3 +649,7 @@ new [description:"cheminée" entry:"1690563713" modified:"1690563713" project:"c
 time 1690563720
 new [description:"cleanup electricité" entry:"1690563720" modified:"1690563720" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"17398583-dc4b-4df9-b0cd-5dc0f92473dd"]
 ---
+time 1690563733
+old [description:"débarasser" entry:"1689875869" modified:"1689875869" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1"]
+new [description:"débarasser" end:"1690563733" entry:"1689875869" modified:"1690563733" project:"chambre" status:"completed" tags:"home" tags_home:"x" uuid:"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1"]
+---

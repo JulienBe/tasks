@@ -189,3 +189,4 @@
 {"description":"dernier montant","entry":"20230728T170149Z","modified":"20230728T170149Z","project":"chambre","status":"pending","uuid":"716d4af6-8d47-42da-9030-9e84b3173c59","tags":["home"]}
 {"description":"cheminée","entry":"20230728T170153Z","modified":"20230728T170153Z","project":"chambre","status":"pending","uuid":"5930e83a-22ca-4d75-9484-b3251bdf9a0d","tags":["home"]}
 {"description":"cleanup electricité","entry":"20230728T170200Z","modified":"20230728T170200Z","project":"chambre","status":"pending","uuid":"17398583-dc4b-4df9-b0cd-5dc0f92473dd","tags":["home"]}
+{"description":"débarasser","end":"20230728T170213Z","entry":"20230720T175749Z","modified":"20230728T170213Z","project":"chambre","status":"completed","uuid":"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1","tags":["home"]}
