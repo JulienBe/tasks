@@ -1,3 +1,4 @@
+[description:"Fix build" end:"1690563646" entry:"1690470846" modified:"1690563646" project:"cam_api" status:"completed" tags:"work" tags_work:"x" uuid:"88a46d7e-ae59-40ae-9279-3f4af1025d0a"]
 [description:"Shows ‘type’ column instead of ‘Class’ and also it shows ‘-‘ instead of correct data" end:"1690451041" entry:"1690354235" modified:"1690451041" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"b8170d4e-3c42-42cc-9e28-11e1a452a310"]
 [description:"Asset inventory insights" end:"1690354211" entry:"1690189763" modified:"1690354211" project:"ditch-TS" status:"completed" tags:"work" tags_work:"x" uuid:"d2590146-93fa-4db0-9694-890bbe2f596d"]
 [description:"Column Sources empty" end:"1690354211" entry:"1690273589" modified:"1690354211" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"c961dd39-07ff-4dbb-ae18-c5a90564f3c0"]
