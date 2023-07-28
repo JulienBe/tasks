@@ -653,3 +653,7 @@ time 1690563733
 old [description:"débarasser" entry:"1689875869" modified:"1689875869" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1"]
 new [description:"débarasser" end:"1690563733" entry:"1689875869" modified:"1690563733" project:"chambre" status:"completed" tags:"home" tags_home:"x" uuid:"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1"]
 ---
+time 1690563743
+old [description:"trouver bache" entry:"1689496533" modified:"1689496533" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"598779d1-94cf-445f-9ab4-8aece0c4894e"]
+new [description:"trouver bache" end:"1690563743" entry:"1689496533" modified:"1690563743" project:"bac_a_sable" status:"completed" tags:"home" tags_home:"x" uuid:"598779d1-94cf-445f-9ab4-8aece0c4894e"]
+---
