@@ -667,3 +667,6 @@ new [description:"Choose game framework that can do web and netcode" entry:"1690
 time 1690618200
 new [description:"Display hello world" entry:"1690618200" modified:"1690618200" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"0a65418f-5e9a-423c-aa4c-e9726a6c7d4a"]
 ---
+time 1690618210
+new [description:"Display title screen" entry:"1690618210" modified:"1690618210" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"922cce5d-d4c0-45a7-8baf-8cb9a4ce5d36"]
+---
