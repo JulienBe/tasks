@@ -660,3 +660,7 @@ new [description:"trouver bache" end:"1690563743" entry:"1689496533" modified:"1
 time 1690618181
 new [description:"Choose game framework that can do web and netcode" entry:"1690618181" modified:"1690618181" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
 ---
+time 1690618188
+old [description:"Choose game framework that can do web and netcode" entry:"1690618181" modified:"1690618181" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
+new [description:"Choose game framework that can do web and netcode" entry:"1690618181" modified:"1690618188" project:"tetris_particles" start:"1690618188" status:"pending" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
+---
