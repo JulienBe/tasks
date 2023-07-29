@@ -657,3 +657,6 @@ time 1690563743
 old [description:"trouver bache" entry:"1689496533" modified:"1689496533" project:"bac_a_sable" status:"pending" tags:"home" tags_home:"x" uuid:"598779d1-94cf-445f-9ab4-8aece0c4894e"]
 new [description:"trouver bache" end:"1690563743" entry:"1689496533" modified:"1690563743" project:"bac_a_sable" status:"completed" tags:"home" tags_home:"x" uuid:"598779d1-94cf-445f-9ab4-8aece0c4894e"]
 ---
+time 1690618181
+new [description:"Choose game framework that can do web and netcode" entry:"1690618181" modified:"1690618181" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
+---

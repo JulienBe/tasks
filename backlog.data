@@ -191,3 +191,4 @@
 {"description":"cleanup electricité","entry":"20230728T170200Z","modified":"20230728T170200Z","project":"chambre","status":"pending","uuid":"17398583-dc4b-4df9-b0cd-5dc0f92473dd","tags":["home"]}
 {"description":"débarasser","end":"20230728T170213Z","entry":"20230720T175749Z","modified":"20230728T170213Z","project":"chambre","status":"completed","uuid":"a08e3a59-bedc-4e7e-a315-50a1a1d3c2e1","tags":["home"]}
 {"description":"trouver bache","end":"20230728T170223Z","entry":"20230716T083533Z","modified":"20230728T170223Z","project":"bac_a_sable","status":"completed","uuid":"598779d1-94cf-445f-9ab4-8aece0c4894e","tags":["home"]}
+{"description":"Choose game framework that can do web and netcode","entry":"20230729T080941Z","modified":"20230729T080941Z","project":"tetris_particles","status":"pending","uuid":"2fb07895-e0d8-45c7-92a1-8402de8d2dbe","tags":["perso"]}

@@ -49,3 +49,4 @@
 [description:"dernier montant" entry:"1690563709" modified:"1690563709" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"716d4af6-8d47-42da-9030-9e84b3173c59"]
 [description:"cheminée" entry:"1690563713" modified:"1690563713" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"5930e83a-22ca-4d75-9484-b3251bdf9a0d"]
 [description:"cleanup electricité" entry:"1690563720" modified:"1690563720" project:"chambre" status:"pending" tags:"home" tags_home:"x" uuid:"17398583-dc4b-4df9-b0cd-5dc0f92473dd"]
+[description:"Choose game framework that can do web and netcode" entry:"1690618181" modified:"1690618181" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
