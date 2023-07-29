@@ -193,3 +193,4 @@
 {"description":"trouver bache","end":"20230728T170223Z","entry":"20230716T083533Z","modified":"20230728T170223Z","project":"bac_a_sable","status":"completed","uuid":"598779d1-94cf-445f-9ab4-8aece0c4894e","tags":["home"]}
 {"description":"Choose game framework that can do web and netcode","entry":"20230729T080941Z","modified":"20230729T080941Z","project":"tetris_particles","status":"pending","uuid":"2fb07895-e0d8-45c7-92a1-8402de8d2dbe","tags":["perso"]}
 {"description":"Choose game framework that can do web and netcode","entry":"20230729T080941Z","modified":"20230729T080948Z","project":"tetris_particles","start":"20230729T080948Z","status":"pending","uuid":"2fb07895-e0d8-45c7-92a1-8402de8d2dbe","tags":["perso"]}
+{"description":"Display hello world","entry":"20230729T081000Z","modified":"20230729T081000Z","project":"tetris_particles","status":"pending","uuid":"0a65418f-5e9a-423c-aa4c-e9726a6c7d4a","tags":["perso"]}
