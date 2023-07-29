@@ -670,3 +670,6 @@ new [description:"Display hello world" entry:"1690618200" modified:"1690618200" 
 time 1690618210
 new [description:"Display title screen" entry:"1690618210" modified:"1690618210" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"922cce5d-d4c0-45a7-8baf-8cb9a4ce5d36"]
 ---
+time 1690618214
+new [description:"Display title with particles" entry:"1690618214" modified:"1690618214" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"9afd1434-401f-445e-a6fe-2a75a69e4b93"]
+---

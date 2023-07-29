@@ -52,3 +52,4 @@
 [description:"Choose game framework that can do web and netcode" entry:"1690618181" modified:"1690618188" project:"tetris_particles" start:"1690618188" status:"pending" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
 [description:"Display hello world" entry:"1690618200" modified:"1690618200" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"0a65418f-5e9a-423c-aa4c-e9726a6c7d4a"]
 [description:"Display title screen" entry:"1690618210" modified:"1690618210" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"922cce5d-d4c0-45a7-8baf-8cb9a4ce5d36"]
+[description:"Display title with particles" entry:"1690618214" modified:"1690618214" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"9afd1434-401f-445e-a6fe-2a75a69e4b93"]
