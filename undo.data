@@ -695,3 +695,6 @@ time 1690884410
 old [description:"Choose game framework that can do web and netcode" entry:"1690618181" modified:"1690618188" project:"tetris_particles" start:"1690618188" status:"pending" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
 new [description:"Choose game framework that can do web and netcode" end:"1690884410" entry:"1690618181" modified:"1690884410" project:"tetris_particles" status:"completed" tags:"perso" tags_perso:"x" uuid:"2fb07895-e0d8-45c7-92a1-8402de8d2dbe"]
 ---
+time 1690884428
+new [description:"send message to damien" entry:"1690884428" modified:"1690884428" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"276d1104-5367-4068-a793-d6fa921a3856"]
+---
