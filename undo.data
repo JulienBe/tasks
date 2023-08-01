@@ -683,3 +683,7 @@ new [description:"get Q11" entry:"1690795044" modified:"1690795049" project:"ts_
 time 1690884393
 new [description:"investigate feasability of liveboard as insight" entry:"1690884393" modified:"1690884393" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"74104450-eb34-4f78-ad97-e90f963e0266"]
 ---
+time 1690884397
+old [description:"investigate feasability of liveboard as insight" entry:"1690884393" modified:"1690884393" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"74104450-eb34-4f78-ad97-e90f963e0266"]
+new [description:"investigate feasability of liveboard as insight" end:"1690884397" entry:"1690884393" modified:"1690884397" project:"ts_prod" status:"completed" tags:"work" tags_work:"x" uuid:"74104450-eb34-4f78-ad97-e90f963e0266"]
+---
