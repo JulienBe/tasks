@@ -705,3 +705,7 @@ new [description:"send message to damien" end:"1690885786" entry:"1690884428" mo
 time 1690886760
 new [description:"mismatch between the type of the type" entry:"1690886760" modified:"1690886760" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
 ---
+time 1690886763
+old [description:"mismatch between the type of the type" entry:"1690886760" modified:"1690886760" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
+new [description:"mismatch between the type of the type" entry:"1690886760" modified:"1690886763" project:"cam_api" start:"1690886763" status:"pending" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
+---
