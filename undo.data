@@ -698,3 +698,7 @@ new [description:"Choose game framework that can do web and netcode" end:"169088
 time 1690884428
 new [description:"send message to damien" entry:"1690884428" modified:"1690884428" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"276d1104-5367-4068-a793-d6fa921a3856"]
 ---
+time 1690885786
+old [description:"send message to damien" entry:"1690884428" modified:"1690884428" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"276d1104-5367-4068-a793-d6fa921a3856"]
+new [description:"send message to damien" end:"1690885786" entry:"1690884428" modified:"1690885786" project:"ts_prod" status:"completed" tags:"work" tags_work:"x" uuid:"276d1104-5367-4068-a793-d6fa921a3856"]
+---
