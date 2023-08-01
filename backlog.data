@@ -204,3 +204,4 @@
 {"description":"Choose game framework that can do web and netcode","end":"20230801T100650Z","entry":"20230729T080941Z","modified":"20230801T100650Z","project":"tetris_particles","status":"completed","uuid":"2fb07895-e0d8-45c7-92a1-8402de8d2dbe","tags":["perso"]}
 {"description":"send message to damien","entry":"20230801T100708Z","modified":"20230801T100708Z","project":"ts_prod","status":"pending","uuid":"276d1104-5367-4068-a793-d6fa921a3856","tags":["work"]}
 {"description":"send message to damien","end":"20230801T102946Z","entry":"20230801T100708Z","modified":"20230801T102946Z","project":"ts_prod","status":"completed","uuid":"276d1104-5367-4068-a793-d6fa921a3856","tags":["work"]}
+{"description":"mismatch between the type of the type","entry":"20230801T104600Z","modified":"20230801T104600Z","project":"cam_api","status":"pending","uuid":"bf59e3bc-6931-43a9-9841-bb253c0e1e73","tags":["work"]}

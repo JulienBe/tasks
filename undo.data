@@ -702,3 +702,6 @@ time 1690885786
 old [description:"send message to damien" entry:"1690884428" modified:"1690884428" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"276d1104-5367-4068-a793-d6fa921a3856"]
 new [description:"send message to damien" end:"1690885786" entry:"1690884428" modified:"1690885786" project:"ts_prod" status:"completed" tags:"work" tags_work:"x" uuid:"276d1104-5367-4068-a793-d6fa921a3856"]
 ---
+time 1690886760
+new [description:"mismatch between the type of the type" entry:"1690886760" modified:"1690886760" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
+---
