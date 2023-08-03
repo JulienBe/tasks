@@ -210,3 +210,4 @@
 {"description":"add liveboards","entry":"20230802T104504Z","modified":"20230802T104504Z","project":"ts_prod","status":"pending","uuid":"0d6d3cef-dea6-43ef-8baf-a4a4b5edcde4","tags":["work"]}
 {"description":"readable names","entry":"20230803T135123Z","modified":"20230803T135123Z","project":"bug","status":"pending","uuid":"68b6feb7-94a8-4737-ac65-50bd641acedf","tags":["work"]}
 {"description":"readable names","end":"20230803T135133Z","entry":"20230803T135123Z","modified":"20230803T135133Z","project":"bug","status":"completed","uuid":"68b6feb7-94a8-4737-ac65-50bd641acedf","tags":["work"]}
+{"description":"mismatch between the type of the type","end":"20230803T190842Z","entry":"20230801T104600Z","modified":"20230803T190842Z","project":"cam_api","status":"completed","uuid":"bf59e3bc-6931-43a9-9841-bb253c0e1e73","tags":["work"]}

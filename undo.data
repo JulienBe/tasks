@@ -722,3 +722,7 @@ time 1691070693
 old [description:"readable names" entry:"1691070683" modified:"1691070683" project:"bug" status:"pending" tags:"work" tags_work:"x" uuid:"68b6feb7-94a8-4737-ac65-50bd641acedf"]
 new [description:"readable names" end:"1691070693" entry:"1691070683" modified:"1691070693" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"68b6feb7-94a8-4737-ac65-50bd641acedf"]
 ---
+time 1691089722
+old [description:"mismatch between the type of the type" entry:"1690886760" modified:"1690886763" project:"cam_api" start:"1690886763" status:"pending" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
+new [description:"mismatch between the type of the type" end:"1691089722" entry:"1690886760" modified:"1691089722" project:"cam_api" status:"completed" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
+---
