@@ -718,3 +718,7 @@ new [description:"add liveboards" entry:"1690973104" modified:"1690973104" proje
 time 1691070683
 new [description:"readable names" entry:"1691070683" modified:"1691070683" project:"bug" status:"pending" tags:"work" tags_work:"x" uuid:"68b6feb7-94a8-4737-ac65-50bd641acedf"]
 ---
+time 1691070693
+old [description:"readable names" entry:"1691070683" modified:"1691070683" project:"bug" status:"pending" tags:"work" tags_work:"x" uuid:"68b6feb7-94a8-4737-ac65-50bd641acedf"]
+new [description:"readable names" end:"1691070693" entry:"1691070683" modified:"1691070693" project:"bug" status:"completed" tags:"work" tags_work:"x" uuid:"68b6feb7-94a8-4737-ac65-50bd641acedf"]
+---
