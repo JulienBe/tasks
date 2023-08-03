@@ -736,3 +736,6 @@ new [description:"answer questions" entry:"1691089837" modified:"1691089837" pro
 time 1691089846
 new [description:"recurring meditation" entry:"1691089846" modified:"1691089846" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"5c4b131d-f63e-4645-9a99-8516b82b7108"]
 ---
+time 1691089915
+new [description:"petit truc routine" entry:"1691089915" modified:"1691089915" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"6dbdb04e-9970-465a-b2b6-9568262274ed"]
+---
