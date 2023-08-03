@@ -715,3 +715,6 @@ new [description:"update asset to asset" entry:"1690897221" modified:"1690897221
 time 1690973104
 new [description:"add liveboards" entry:"1690973104" modified:"1690973104" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"0d6d3cef-dea6-43ef-8baf-a4a4b5edcde4"]
 ---
+time 1691070683
+new [description:"readable names" entry:"1691070683" modified:"1691070683" project:"bug" status:"pending" tags:"work" tags_work:"x" uuid:"68b6feb7-94a8-4737-ac65-50bd641acedf"]
+---
