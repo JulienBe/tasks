@@ -726,3 +726,7 @@ time 1691089722
 old [description:"mismatch between the type of the type" entry:"1690886760" modified:"1690886763" project:"cam_api" start:"1690886763" status:"pending" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
 new [description:"mismatch between the type of the type" end:"1691089722" entry:"1690886760" modified:"1691089722" project:"cam_api" status:"completed" tags:"work" tags_work:"x" uuid:"bf59e3bc-6931-43a9-9841-bb253c0e1e73"]
 ---
+time 1691089817
+old [description:"Read email" entry:"1690451063" modified:"1690451063" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"c2e54740-ca83-4705-b973-b6e094d26d38"]
+new [description:"Read email" end:"1691089817" entry:"1690451063" modified:"1691089817" project:"psy" status:"completed" tags:"perso" tags_perso:"x" uuid:"c2e54740-ca83-4705-b973-b6e094d26d38"]
+---
