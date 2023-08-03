@@ -54,3 +54,4 @@
 [description:"update asset to asset" entry:"1690897221" modified:"1690897221" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"366f1c81-15cd-4773-a478-71cdc78d3442"]
 [description:"add liveboards" entry:"1690973104" modified:"1690973104" project:"ts_prod" status:"pending" tags:"work" tags_work:"x" uuid:"0d6d3cef-dea6-43ef-8baf-a4a4b5edcde4"]
 [description:"answer questions" entry:"1691089837" modified:"1691089837" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"d6a83189-4d1d-4f30-8e98-fabcc5f12f7f"]
+[description:"recurring meditation" entry:"1691089846" modified:"1691089846" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"5c4b131d-f63e-4645-9a99-8516b82b7108"]

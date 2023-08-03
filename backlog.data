@@ -213,3 +213,4 @@
 {"description":"mismatch between the type of the type","end":"20230803T190842Z","entry":"20230801T104600Z","modified":"20230803T190842Z","project":"cam_api","status":"completed","uuid":"bf59e3bc-6931-43a9-9841-bb253c0e1e73","tags":["work"]}
 {"description":"Read email","end":"20230803T191017Z","entry":"20230727T094423Z","modified":"20230803T191017Z","project":"psy","status":"completed","uuid":"c2e54740-ca83-4705-b973-b6e094d26d38","tags":["perso"]}
 {"description":"answer questions","entry":"20230803T191037Z","modified":"20230803T191037Z","project":"psy","status":"pending","uuid":"d6a83189-4d1d-4f30-8e98-fabcc5f12f7f","tags":["perso"]}
+{"description":"recurring meditation","entry":"20230803T191046Z","modified":"20230803T191046Z","project":"psy","status":"pending","uuid":"5c4b131d-f63e-4645-9a99-8516b82b7108","tags":["perso"]}

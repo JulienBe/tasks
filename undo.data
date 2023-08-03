@@ -733,3 +733,6 @@ new [description:"Read email" end:"1691089817" entry:"1690451063" modified:"1691
 time 1691089837
 new [description:"answer questions" entry:"1691089837" modified:"1691089837" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"d6a83189-4d1d-4f30-8e98-fabcc5f12f7f"]
 ---
+time 1691089846
+new [description:"recurring meditation" entry:"1691089846" modified:"1691089846" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"5c4b131d-f63e-4645-9a99-8516b82b7108"]
+---
