@@ -54,6 +54,6 @@
 [description:"recurring meditation" entry:"1691089846" modified:"1691089846" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"5c4b131d-f63e-4645-9a99-8516b82b7108"]
 [description:"petit truc routine" entry:"1691089915" modified:"1691089915" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"6dbdb04e-9970-465a-b2b6-9568262274ed"]
 [description:"battery" entry:"1691390565" modified:"1691390565" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"fb903d3a-f951-41a1-bc12-3f63912c5648"]
-[description:"Block falling" entry:"1691390610" modified:"1691390610" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"597e58d1-6fc4-4a6a-8aad-5e91822167d4"]
+[description:"Block falling" end:"1691390634" entry:"1691390610" modified:"1691390634" project:"tetris_particles" status:"completed" tags:"perso" tags_perso:"x" uuid:"597e58d1-6fc4-4a6a-8aad-5e91822167d4"]
 [description:"particles falling" entry:"1691390616" modified:"1691390616" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"cb8ae16c-6378-4bc9-a25b-ae6353ac35f2"]
 [description:"Height map collision" entry:"1691390622" modified:"1691390622" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"806d0895-172b-4137-a7ac-d5c57d558afe"]
