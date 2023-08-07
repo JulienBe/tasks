@@ -767,3 +767,7 @@ time 1691390634
 old [description:"Block falling" entry:"1691390610" modified:"1691390610" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"597e58d1-6fc4-4a6a-8aad-5e91822167d4"]
 new [description:"Block falling" end:"1691390634" entry:"1691390610" modified:"1691390634" project:"tetris_particles" status:"completed" tags:"perso" tags_perso:"x" uuid:"597e58d1-6fc4-4a6a-8aad-5e91822167d4"]
 ---
+time 1691393371
+old [description:"Create class ticket" entry:"1690355601" modified:"1690355601" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"ef8bd198-8f73-4b59-9b22-dd6319e66cb2"]
+new [description:"Create class ticket" end:"1691393371" entry:"1690355601" modified:"1691393371" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"ef8bd198-8f73-4b59-9b22-dd6319e66cb2"]
+---
