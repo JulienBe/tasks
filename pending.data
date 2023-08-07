@@ -25,7 +25,7 @@
 [description:"add shadows" entry:"1689496858" modified:"1689881779" project:"med-fan-wipeout" start:"1689881779" status:"pending" tags:"perso" tags_perso:"x" uuid:"02e5b665-64b8-4150-b52e-2d26bb64b369"]
 [description:"add points" entry:"1689496946" modified:"1689496946" project:"vacances_map" status:"pending" tags:"perso" tags_perso:"x" uuid:"68cfaea8-a676-4f03-9db4-93d969a993b6"]
 [description:"potager" entry:"1689497193" modified:"1689497193" project:"cleanup" status:"pending" tags:"home" tags_home:"x" uuid:"f99abf85-f9cd-4f23-937f-22a6c24d5ee6"]
-[description:"tri wing" entry:"1689497222" modified:"1690451051" project:"gameboy" start:"1690451051" status:"pending" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
+[description:"tri wing" end:"1691390568" entry:"1689497222" modified:"1691390568" project:"gameboy" status:"completed" tags:"perso" tags_perso:"x" uuid:"d551b0d2-c7f2-4649-8199-d109334cd7bd"]
 [description:"Access point in the barn" entry:"1689497422" modified:"1689497422" project:"for_me" status:"pending" tags:"home" tags_home:"x" uuid:"4649e673-529f-419b-b67d-ad793833e768"]
 [description:"etagère" entry:"1689499355" modified:"1689499355" project:"emrys" status:"pending" tags:"home" tags_home:"x" uuid:"0f67c7bb-5ce1-468b-adfd-c816da643ba1"]
 [description:"cadre" entry:"1689499361" modified:"1689499361" project:"emrys" status:"pending" tags:"home" tags_home:"x" uuid:"46ea3e37-4523-4aa1-a469-d5e371947afd"]

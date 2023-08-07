@@ -217,3 +217,4 @@
 {"description":"petit truc routine","entry":"20230803T191155Z","modified":"20230803T191155Z","project":"psy","status":"pending","uuid":"6dbdb04e-9970-465a-b2b6-9568262274ed","tags":["perso"]}
 {"description":"battery","end":"20230807T064226Z","entry":"20230716T084706Z","modified":"20230807T064226Z","project":"gameboy","status":"completed","uuid":"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3","tags":["perso"]}
 {"description":"battery","entry":"20230807T064245Z","modified":"20230807T064245Z","project":"gameboy","status":"pending","uuid":"fb903d3a-f951-41a1-bc12-3f63912c5648","tags":["perso"]}
+{"description":"tri wing","end":"20230807T064248Z","entry":"20230716T084702Z","modified":"20230807T064248Z","project":"gameboy","status":"completed","uuid":"d551b0d2-c7f2-4649-8199-d109334cd7bd","tags":["perso"]}
