@@ -743,3 +743,6 @@ time 1691390546
 old [description:"battery" entry:"1689497226" modified:"1689497226" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3"]
 new [description:"battery" end:"1691390546" entry:"1689497226" modified:"1691390546" project:"gameboy" status:"completed" tags:"perso" tags_perso:"x" uuid:"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3"]
 ---
+time 1691390565
+new [description:"battery" entry:"1691390565" modified:"1691390565" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"fb903d3a-f951-41a1-bc12-3f63912c5648"]
+---
