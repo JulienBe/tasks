@@ -781,3 +781,6 @@ new [description:"Validate against OAS" entry:"1691398986" modified:"1691398990"
 time 1691399263
 new [description:"Update type to data_type or something OAS" entry:"1691399263" modified:"1691399263" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"df9d9d18-3482-4ccf-b1de-ccbd129077fc"]
 ---
+time 1691399524
+new [description:"Rename class field OAS" entry:"1691399524" modified:"1691399524" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"e6c9ae37-370b-409a-871b-5e96a155bd39"]
+---
