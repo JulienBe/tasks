@@ -774,3 +774,7 @@ new [description:"Create class ticket" end:"1691393371" entry:"1690355601" modif
 time 1691398986
 new [description:"Validate against OAS" entry:"1691398986" modified:"1691398986" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af"]
 ---
+time 1691398990
+old [description:"Validate against OAS" entry:"1691398986" modified:"1691398986" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af"]
+new [description:"Validate against OAS" entry:"1691398986" modified:"1691398990" project:"cam_api" start:"1691398990" status:"pending" tags:"work" tags_work:"x" uuid:"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af"]
+---

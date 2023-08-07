@@ -225,3 +225,4 @@
 {"description":"Block falling","end":"20230807T064354Z","entry":"20230807T064330Z","modified":"20230807T064354Z","project":"tetris_particles","status":"completed","uuid":"597e58d1-6fc4-4a6a-8aad-5e91822167d4","tags":["perso"]}
 {"description":"Create class ticket","end":"20230807T072931Z","entry":"20230726T071321Z","modified":"20230807T072931Z","project":"bugs","status":"completed","uuid":"ef8bd198-8f73-4b59-9b22-dd6319e66cb2","tags":["work"]}
 {"description":"Validate against OAS","entry":"20230807T090306Z","modified":"20230807T090306Z","project":"cam_api","status":"pending","uuid":"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af","tags":["work"]}
+{"description":"Validate against OAS","entry":"20230807T090306Z","modified":"20230807T090310Z","project":"cam_api","start":"20230807T090310Z","status":"pending","uuid":"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af","tags":["work"]}
