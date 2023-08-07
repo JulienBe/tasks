@@ -221,3 +221,4 @@
 {"description":"Display hello world","end":"20230807T064304Z","entry":"20230729T081000Z","modified":"20230807T064304Z","project":"tetris_particles","status":"completed","uuid":"0a65418f-5e9a-423c-aa4c-e9726a6c7d4a","tags":["perso"]}
 {"description":"Block falling","entry":"20230807T064330Z","modified":"20230807T064330Z","project":"tetris_particles","status":"pending","uuid":"597e58d1-6fc4-4a6a-8aad-5e91822167d4","tags":["perso"]}
 {"description":"particles falling","entry":"20230807T064336Z","modified":"20230807T064336Z","project":"tetris_particles","status":"pending","uuid":"cb8ae16c-6378-4bc9-a25b-ae6353ac35f2","tags":["perso"]}
+{"description":"Height map collision","entry":"20230807T064342Z","modified":"20230807T064342Z","project":"tetris_particles","status":"pending","uuid":"806d0895-172b-4137-a7ac-d5c57d558afe","tags":["perso"]}
