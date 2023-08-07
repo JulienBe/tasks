@@ -778,3 +778,6 @@ time 1691398990
 old [description:"Validate against OAS" entry:"1691398986" modified:"1691398986" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af"]
 new [description:"Validate against OAS" entry:"1691398986" modified:"1691398990" project:"cam_api" start:"1691398990" status:"pending" tags:"work" tags_work:"x" uuid:"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af"]
 ---
+time 1691399263
+new [description:"Update type to data_type or something OAS" entry:"1691399263" modified:"1691399263" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"df9d9d18-3482-4ccf-b1de-ccbd129077fc"]
+---
