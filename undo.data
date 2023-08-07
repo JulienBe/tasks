@@ -771,3 +771,6 @@ time 1691393371
 old [description:"Create class ticket" entry:"1690355601" modified:"1690355601" project:"bugs" status:"pending" tags:"work" tags_work:"x" uuid:"ef8bd198-8f73-4b59-9b22-dd6319e66cb2"]
 new [description:"Create class ticket" end:"1691393371" entry:"1690355601" modified:"1691393371" project:"bugs" status:"completed" tags:"work" tags_work:"x" uuid:"ef8bd198-8f73-4b59-9b22-dd6319e66cb2"]
 ---
+time 1691398986
+new [description:"Validate against OAS" entry:"1691398986" modified:"1691398986" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af"]
+---
