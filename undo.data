@@ -739,3 +739,7 @@ new [description:"recurring meditation" entry:"1691089846" modified:"1691089846"
 time 1691089915
 new [description:"petit truc routine" entry:"1691089915" modified:"1691089915" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"6dbdb04e-9970-465a-b2b6-9568262274ed"]
 ---
+time 1691390546
+old [description:"battery" entry:"1689497226" modified:"1689497226" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3"]
+new [description:"battery" end:"1691390546" entry:"1689497226" modified:"1691390546" project:"gameboy" status:"completed" tags:"perso" tags_perso:"x" uuid:"7015717b-d9a5-4f6c-a136-a5a8d0b7dac3"]
+---
