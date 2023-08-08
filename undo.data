@@ -790,3 +790,7 @@ new [description:"Reboucher devant box calin" entry:"1691487425" modified:"16914
 time 1691489075
 new [description:"Check for provider field in asset" entry:"1691489075" modified:"1691489075" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"87fb39e8-abfc-4e9c-92d0-afadece74788"]
 ---
+time 1691489082
+old [description:"Check for provider field in asset" entry:"1691489075" modified:"1691489075" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"87fb39e8-abfc-4e9c-92d0-afadece74788"]
+new [description:"Check for provider field in asset" entry:"1691489075" modified:"1691489082" project:"cam_api" start:"1691489082" status:"pending" tags:"work" tags_work:"x" uuid:"87fb39e8-abfc-4e9c-92d0-afadece74788"]
+---
