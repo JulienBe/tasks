@@ -784,3 +784,6 @@ new [description:"Update type to data_type or something OAS" entry:"1691399263" 
 time 1691399524
 new [description:"Rename class field OAS" entry:"1691399524" modified:"1691399524" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"e6c9ae37-370b-409a-871b-5e96a155bd39"]
 ---
+time 1691487425
+new [description:"Reboucher devant box calin" entry:"1691487425" modified:"1691487425" project:"exterieur" status:"pending" tags:"home" tags_home:"x" uuid:"25ce0d6d-3d31-486d-911f-ee8cad65aecb"]
+---
