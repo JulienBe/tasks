@@ -800,3 +800,6 @@ new [description:"Check for driver field in asset" entry:"1691490362" modified:"
 time 1691490365
 new [description:"Check for owner field in asset" entry:"1691490365" modified:"1691490365" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"f772ae29-80b1-4d73-bdce-72153399969d"]
 ---
+time 1691490387
+new [description:"Check for organizational unit field in asset" entry:"1691490387" modified:"1691490387" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"aa861ec7-aa96-4397-a517-dff6162753e0"]
+---
