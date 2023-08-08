@@ -787,3 +787,6 @@ new [description:"Rename class field OAS" entry:"1691399524" modified:"169139952
 time 1691487425
 new [description:"Reboucher devant box calin" entry:"1691487425" modified:"1691487425" project:"exterieur" status:"pending" tags:"home" tags_home:"x" uuid:"25ce0d6d-3d31-486d-911f-ee8cad65aecb"]
 ---
+time 1691489075
+new [description:"Check for provider field in asset" entry:"1691489075" modified:"1691489075" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"87fb39e8-abfc-4e9c-92d0-afadece74788"]
+---

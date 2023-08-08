@@ -229,3 +229,4 @@
 {"description":"Update type to data_type or something OAS","entry":"20230807T090743Z","modified":"20230807T090743Z","project":"cam_api","status":"pending","uuid":"df9d9d18-3482-4ccf-b1de-ccbd129077fc","tags":["work"]}
 {"description":"Rename class field OAS","entry":"20230807T091204Z","modified":"20230807T091204Z","project":"cam_api","status":"pending","uuid":"e6c9ae37-370b-409a-871b-5e96a155bd39","tags":["work"]}
 {"description":"Reboucher devant box calin","entry":"20230808T093705Z","modified":"20230808T093705Z","project":"exterieur","status":"pending","uuid":"25ce0d6d-3d31-486d-911f-ee8cad65aecb","tags":["home"]}
+{"description":"Check for provider field in asset","entry":"20230808T100435Z","modified":"20230808T100435Z","project":"cam_api","status":"pending","uuid":"87fb39e8-abfc-4e9c-92d0-afadece74788","tags":["work"]}
