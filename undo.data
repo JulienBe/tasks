@@ -797,3 +797,6 @@ new [description:"Check for provider field in asset" entry:"1691489075" modified
 time 1691490362
 new [description:"Check for driver field in asset" entry:"1691490362" modified:"1691490362" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"9a7a21ff-5a33-4786-a7dc-8623efb15273"]
 ---
+time 1691490365
+new [description:"Check for owner field in asset" entry:"1691490365" modified:"1691490365" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"f772ae29-80b1-4d73-bdce-72153399969d"]
+---
