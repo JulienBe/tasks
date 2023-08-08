@@ -234,3 +234,4 @@
 {"description":"Check for driver field in asset","entry":"20230808T102602Z","modified":"20230808T102602Z","project":"cam_api","status":"pending","uuid":"9a7a21ff-5a33-4786-a7dc-8623efb15273","tags":["work"]}
 {"description":"Check for owner field in asset","entry":"20230808T102605Z","modified":"20230808T102605Z","project":"cam_api","status":"pending","uuid":"f772ae29-80b1-4d73-bdce-72153399969d","tags":["work"]}
 {"description":"Check for organizational unit field in asset","entry":"20230808T102627Z","modified":"20230808T102627Z","project":"cam_api","status":"pending","uuid":"aa861ec7-aa96-4397-a517-dff6162753e0","tags":["work"]}
+{"description":"Check for driver field in asset","entry":"20230808T102602Z","modified":"20230808T102802Z","project":"cam_api","start":"20230808T102802Z","status":"pending","uuid":"9a7a21ff-5a33-4786-a7dc-8623efb15273","tags":["work"]}
