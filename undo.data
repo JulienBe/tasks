@@ -815,3 +815,6 @@ time 1691507804
 old [description:"Check for driver field in asset" entry:"1691490362" modified:"1691490482" project:"cam_api" start:"1691490482" status:"pending" tags:"work" tags_work:"x" uuid:"9a7a21ff-5a33-4786-a7dc-8623efb15273"]
 new [description:"Check for driver field in asset" end:"1691507804" entry:"1691490362" modified:"1691507804" project:"cam_api" status:"completed" tags:"work" tags_work:"x" uuid:"9a7a21ff-5a33-4786-a7dc-8623efb15273"]
 ---
+time 1691567607
+new [description:"Updating doc" entry:"1691567607" modified:"1691567607" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"742f876e-ef0d-4084-b7d0-1665bdfca47b"]
+---
