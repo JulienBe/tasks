@@ -62,3 +62,4 @@
 [description:"Check for owner field in asset" entry:"1691490365" modified:"1691490365" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"f772ae29-80b1-4d73-bdce-72153399969d"]
 [description:"Check for organizational unit field in asset" entry:"1691490387" modified:"1691490387" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"aa861ec7-aa96-4397-a517-dff6162753e0"]
 [description:"Updating doc" entry:"1691567607" modified:"1691567607" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"742f876e-ef0d-4084-b7d0-1665bdfca47b"]
+[description:"Make payload react to max level" entry:"1691575902" modified:"1691575902" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"78195b20-4d70-48bf-8912-0982fb4b8234"]
