@@ -821,3 +821,6 @@ new [description:"Updating doc" entry:"1691567607" modified:"1691567607" project
 time 1691575902
 new [description:"Make payload react to max level" entry:"1691575902" modified:"1691575902" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"78195b20-4d70-48bf-8912-0982fb4b8234"]
 ---
+time 1691575915
+new [description:"Fix startup error" entry:"1691575915" modified:"1691575915" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"41ba9d59-94dd-418b-9dd6-3b3ed36ebde2"]
+---
