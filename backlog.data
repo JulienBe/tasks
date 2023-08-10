@@ -241,3 +241,4 @@
 {"description":"Make payload react to max level","entry":"20230809T101142Z","modified":"20230809T101142Z","project":"cam_api","status":"pending","uuid":"78195b20-4d70-48bf-8912-0982fb4b8234","tags":["work"]}
 {"description":"Fix startup error","entry":"20230809T101155Z","modified":"20230809T101155Z","project":"cam_api","status":"pending","uuid":"41ba9d59-94dd-418b-9dd6-3b3ed36ebde2","tags":["work"]}
 {"description":"Manual tweak","entry":"20230810T072512Z","modified":"20230810T072512Z","project":"cam_api","status":"pending","uuid":"09f71574-1cbe-447b-9341-f321783ac9b0","tags":["work"]}
+{"description":"Manual tweak","entry":"20230810T072512Z","modified":"20230810T072519Z","project":"cam_api","start":"20230810T072519Z","status":"pending","uuid":"09f71574-1cbe-447b-9341-f321783ac9b0","tags":["work"]}
