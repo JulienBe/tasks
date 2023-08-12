@@ -54,7 +54,7 @@
 [description:"petit truc routine" entry:"1691089915" modified:"1691089915" project:"psy" status:"pending" tags:"perso" tags_perso:"x" uuid:"6dbdb04e-9970-465a-b2b6-9568262274ed"]
 [description:"battery" entry:"1691390565" modified:"1691390565" project:"gameboy" status:"pending" tags:"perso" tags_perso:"x" uuid:"fb903d3a-f951-41a1-bc12-3f63912c5648"]
 [description:"particles falling" entry:"1691390616" modified:"1691390616" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"cb8ae16c-6378-4bc9-a25b-ae6353ac35f2"]
-[description:"Height map collision" entry:"1691390622" modified:"1691390622" project:"tetris_particles" status:"pending" tags:"perso" tags_perso:"x" uuid:"806d0895-172b-4137-a7ac-d5c57d558afe"]
+[description:"Height map collision" end:"1691836698" entry:"1691390622" modified:"1691836698" project:"tetris_particles" status:"completed" tags:"perso" tags_perso:"x" uuid:"806d0895-172b-4137-a7ac-d5c57d558afe"]
 [description:"Validate against OAS" entry:"1691398986" modified:"1691398990" project:"cam_api" start:"1691398990" status:"pending" tags:"work" tags_work:"x" uuid:"7d74ba9c-8d3a-4d33-aeef-884d4e55a1af"]
 [description:"Update type to data_type or something OAS" entry:"1691399263" modified:"1691399263" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"df9d9d18-3482-4ccf-b1de-ccbd129077fc"]
 [description:"Rename class field OAS" entry:"1691399524" modified:"1691399524" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"e6c9ae37-370b-409a-871b-5e96a155bd39"]
