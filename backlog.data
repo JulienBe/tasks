@@ -251,3 +251,4 @@
 {"description":"Setup robot","entry":"20230816T082451Z","modified":"20230816T082451Z","project":"lawn_and_order","status":"pending","uuid":"690adbb3-8635-4a48-bd7c-a69e96e3601c","tags":["home"]}
 {"description":"Setup camera","entry":"20230816T082458Z","modified":"20230816T082458Z","project":"lawn_and_order","status":"pending","uuid":"38a7f9c9-7dc3-4543-9507-2c33d88b068d","tags":["home"]}
 {"description":"Acheter piles","entry":"20230816T082502Z","modified":"20230816T082502Z","project":"lawn_and_order","status":"pending","uuid":"4d493d48-c04a-4d57-a893-ef24295c2f09","tags":["home"]}
+{"description":"Acheter shampoing sec","entry":"20230816T082512Z","modified":"20230816T082512Z","project":"lawn_and_order","status":"pending","uuid":"7bf17d0d-b5ab-437f-96e5-ed53db48da28","tags":["home"]}

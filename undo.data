@@ -859,3 +859,6 @@ new [description:"Setup camera" entry:"1692174298" modified:"1692174298" project
 time 1692174302
 new [description:"Acheter piles" entry:"1692174302" modified:"1692174302" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"4d493d48-c04a-4d57-a893-ef24295c2f09"]
 ---
+time 1692174312
+new [description:"Acheter shampoing sec" entry:"1692174312" modified:"1692174312" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"7bf17d0d-b5ab-437f-96e5-ed53db48da28"]
+---
