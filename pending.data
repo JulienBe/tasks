@@ -79,5 +79,5 @@
 [description:"Rentrer Calisto" entry:"1692174382" modified:"1692174382" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"092c5810-021d-4882-ae8d-49faf66d69f9"]
 [description:"Ambassade" entry:"1692174513" modified:"1692174513" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"ae46dfab-8e3a-4599-b85a-6f95f2a679ca"]
 [description:"Amener PC" entry:"1692174569" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"e482f1ec-c61e-4711-820b-1c3e440a2346"]
-[description:"Amener Agenda" entry:"1692174592" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"e1a5855e-5f8a-4e28-ba3d-8581d81bf190"]
+[description:"Amener Agenda" end:"1692183035" entry:"1692174592" modified:"1692183035" project:"lawn_and_order" status:"completed" tags:"home" tags_home:"x" uuid:"e1a5855e-5f8a-4e28-ba3d-8581d81bf190"]
 [description:"Rentrer vélos" entry:"1692175092" modified:"1692175092" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"7e9bd365-2053-4a46-9de6-31a9ee934d5c"]
