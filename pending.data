@@ -65,3 +65,4 @@
 [description:"Fix startup error" entry:"1691575915" modified:"1691575915" project:"cam_api" status:"pending" tags:"work" tags_work:"x" uuid:"41ba9d59-94dd-418b-9dd6-3b3ed36ebde2"]
 [description:"Manual tweak" entry:"1691652312" modified:"1691652319" project:"cam_api" start:"1691652319" status:"pending" tags:"work" tags_work:"x" uuid:"09f71574-1cbe-447b-9341-f321783ac9b0"]
 [description:"Boxes" entry:"1692174252" modified:"1692174252" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"05882de7-7bc5-443f-b857-11f010d08359"]
+[description:"cramer les trucs" entry:"1692174257" modified:"1692174257" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"14649ea5-4443-4d85-803e-462e44a75155"]
