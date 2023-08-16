@@ -921,3 +921,19 @@ time 1692183035
 old [description:"Amener Agenda" entry:"1692174592" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"e1a5855e-5f8a-4e28-ba3d-8581d81bf190"]
 new [description:"Amener Agenda" end:"1692183035" entry:"1692174592" modified:"1692183035" project:"lawn_and_order" status:"completed" tags:"home" tags_home:"x" uuid:"e1a5855e-5f8a-4e28-ba3d-8581d81bf190"]
 ---
+time 1692210208
+old [description:"Cuisiner pommes de terres et oeufs" entry:"1692174279" modified:"1692174279" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"906232f5-0005-47f7-9132-482cbac07d01"]
+new [description:"Cuisiner pommes de terres et oeufs" end:"1692210206" entry:"1692174279" modified:"1692210208" project:"lawn_and_order" status:"completed" tags:"home" tags_home:"x" uuid:"906232f5-0005-47f7-9132-482cbac07d01"]
+---
+time 1692210208
+old [description:"Acheter shampoing sec" entry:"1692174312" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"7bf17d0d-b5ab-437f-96e5-ed53db48da28"]
+new [description:"Acheter shampoing sec" end:"1692210208" entry:"1692174312" modified:"1692210208" project:"lawn_and_order" status:"completed" tags:"home" tags_home:"x" uuid:"7bf17d0d-b5ab-437f-96e5-ed53db48da28"]
+---
+time 1692210208
+old [description:"Brosse à cheveux" entry:"1692174327" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"f9e2742a-87b9-4957-9e82-28dbf01c45ad"]
+new [description:"Brosse à cheveux" end:"1692210208" entry:"1692174327" modified:"1692210208" project:"lawn_and_order" status:"completed" tags:"home" tags_home:"x" uuid:"f9e2742a-87b9-4957-9e82-28dbf01c45ad"]
+---
+time 1692210208
+old [description:"Amener PC" entry:"1692174569" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"e482f1ec-c61e-4711-820b-1c3e440a2346"]
+new [description:"Amener PC" end:"1692210208" entry:"1692174569" modified:"1692210208" project:"lawn_and_order" status:"completed" tags:"home" tags_home:"x" uuid:"e482f1ec-c61e-4711-820b-1c3e440a2346"]
+---
