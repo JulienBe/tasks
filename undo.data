@@ -880,3 +880,6 @@ new [description:"Rentrer Calisto" entry:"1692174382" modified:"1692174382" proj
 time 1692174513
 new [description:"Ambassade" entry:"1692174513" modified:"1692174513" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"ae46dfab-8e3a-4599-b85a-6f95f2a679ca"]
 ---
+time 1692174569
+new [description:"Amener PC" entry:"1692174569" modified:"1692174569" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"e482f1ec-c61e-4711-820b-1c3e440a2346"]
+---
