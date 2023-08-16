@@ -862,3 +862,6 @@ new [description:"Acheter piles" entry:"1692174302" modified:"1692174302" projec
 time 1692174312
 new [description:"Acheter shampoing sec" entry:"1692174312" modified:"1692174312" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"7bf17d0d-b5ab-437f-96e5-ed53db48da28"]
 ---
+time 1692174327
+new [description:"Brosse à cheveux" entry:"1692174327" modified:"1692174327" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"f9e2742a-87b9-4957-9e82-28dbf01c45ad"]
+---
