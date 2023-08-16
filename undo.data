@@ -913,3 +913,7 @@ time 1692180693
 old [description:"Amener Agenda" entry:"1692174592" modified:"1692174592" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"e1a5855e-5f8a-4e28-ba3d-8581d81bf190"]
 new [description:"Amener Agenda" entry:"1692174592" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"e1a5855e-5f8a-4e28-ba3d-8581d81bf190"]
 ---
+time 1692183027
+old [description:"Boules quies" entry:"1692174332" modified:"1692180693" project:"lawn_and_order" start:"1692180693" status:"pending" tags:"home" tags_home:"x" uuid:"5d6c20b1-f1c0-45cb-bd62-e0257772ce7e"]
+new [description:"Boules quies" end:"1692183027" entry:"1692174332" modified:"1692183027" project:"lawn_and_order" status:"completed" tags:"home" tags_home:"x" uuid:"5d6c20b1-f1c0-45cb-bd62-e0257772ce7e"]
+---
