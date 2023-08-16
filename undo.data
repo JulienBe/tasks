@@ -853,3 +853,6 @@ new [description:"Vitres" entry:"1692174286" modified:"1692174286" project:"lawn
 time 1692174291
 new [description:"Setup robot" entry:"1692174291" modified:"1692174291" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"690adbb3-8635-4a48-bd7c-a69e96e3601c"]
 ---
+time 1692174298
+new [description:"Setup camera" entry:"1692174298" modified:"1692174298" project:"lawn_and_order" status:"pending" tags:"home" tags_home:"x" uuid:"38a7f9c9-7dc3-4543-9507-2c33d88b068d"]
+---
